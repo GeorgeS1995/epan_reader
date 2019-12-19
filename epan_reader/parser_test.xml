@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<classification>
+    <requestid>0</requestid>
+    <responsecode>0</responsecode>
+    <ticketdata>
+        <operator>40512</operator>
+        <type>1</type>
+        <subtype>0</subtype>
+        <class>0</class>
+        <entryfacility>5001</entryfacility>
+        <presentinfacility>5001</presentinfacility>
+        <entrytime>20191205185524</entrytime>
+        <cell>1891</cell>
+        <device>103</device>
+        <countofpayments>0</countofpayments>
+        <epan>02405121891011039339681240??</epan>
+    </ticketdata>
+</classification>

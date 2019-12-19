@@ -1,0 +1,354 @@
+2019-12-12 00:00:00.1725 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 00:00:00.1881 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'598JcOr02VCyV89CF39sRNyXCubjeb93','expiresAt':'2019-12-12T00:15:00.188+03:00' 
+2019-12-12 00:00:03.5165 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 00:00:03.5165 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'7Jt0JfBTbfhIB59I9mYV5JShBa6in7MQ','expiresAt':'2019-12-12T00:15:03.516+03:00' 
+2019-12-12 00:00:03.5478 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.RemoveExpiredTokens:77] Trace: Token ''accessToken':'uHZ22dOiIIDzARzorTgjoN4fRIznZEBt','expiresAt':'2019-12-11T23:10:00.869+03:00'' is being removed 
+2019-12-12 00:00:03.5478 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.CheckToken:55] Info: Проверка токена: 7Jt0JfBTbfhIB59I9mYV5JShBa6in7MQ 
+2019-12-12 00:00:03.5478 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.CheckToken:59] Info: Проверка успешна: 'accessToken':'7Jt0JfBTbfhIB59I9mYV5JShBa6in7MQ','expiresAt':'2019-12-12T00:15:03.516+03:00' 
+2019-12-12 00:00:03.8447 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 00:00:03.8447 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'M8qCE8sZrgGmgfM6kIar3dyorCojZTfT','expiresAt':'2019-12-12T00:15:03.844+03:00' 
+2019-12-12 00:00:03.9384 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 00:00:03.9384 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'IHw2Fx40uyeO2f1WEzxUXVMjA2L2K90N','expiresAt':'2019-12-12T00:15:03.938+03:00' 
+2019-12-12 00:00:04.3447 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 00:00:04.3447 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'0mTPjJrmEZw5zZlBBIUZVBwnuDsCc1gl','expiresAt':'2019-12-12T00:15:04.344+03:00' 
+2019-12-12 00:00:04.4072 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 00:00:04.4228 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'yGNGCcnv7BGyYHjaH9r1eRspqgUVQeAC','expiresAt':'2019-12-12T00:15:04.422+03:00' 
+2019-12-12 00:00:04.4854 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 00:00:04.4854 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'sB7iBVyZVYRKuyEcTIvSAf6WOYPW7HUT','expiresAt':'2019-12-12T00:15:04.485+03:00' 
+2019-12-12 00:00:04.8760 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 00:00:04.8760 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'135MA1OlAIV6zXusRs28jh1D5aKd5SRE','expiresAt':'2019-12-12T00:15:04.876+03:00' 
+2019-12-12 00:00:05.2042 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 00:00:05.2042 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'3yJrsrSSt9Hs90XqdW4EEMjJ1sGaglfi','expiresAt':'2019-12-12T00:15:05.204+03:00' 
+2019-12-12 00:00:05.4698 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 00:00:05.4698 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'qH21D3zZPaEZP9353TzZOCzhE0p0bsl8','expiresAt':'2019-12-12T00:15:05.469+03:00' 
+2019-12-12 00:00:05.4698 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.CheckToken:55] Info: Проверка токена: qH21D3zZPaEZP9353TzZOCzhE0p0bsl8 
+2019-12-12 00:00:05.4698 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.CheckToken:59] Info: Проверка успешна: 'accessToken':'qH21D3zZPaEZP9353TzZOCzhE0p0bsl8','expiresAt':'2019-12-12T00:15:05.469+03:00' 
+2019-12-12 00:00:05.5948 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 00:00:05.5948 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'UZ2rxVdaWUpe7AtsoAXDm6KdIKmDDzyX','expiresAt':'2019-12-12T00:15:05.594+03:00' 
+2019-12-12 00:00:05.6730 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 00:00:05.6730 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'o65q7C7XqO2tNKZ46xCQKYLNEPYdjPNX','expiresAt':'2019-12-12T00:15:05.673+03:00' 
+2019-12-12 00:00:05.8917 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 00:00:05.8917 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'WHq152lb30NN4RFyli7FnYDGkhbidUoQ','expiresAt':'2019-12-12T00:15:05.891+03:00' 
+2019-12-12 00:00:06.1105 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 00:00:06.1105 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'1VN6UYz3CaNKAyJn9as0I7kx4ZGNR2xY','expiresAt':'2019-12-12T00:15:06.110+03:00' 
+2019-12-12 00:00:06.1886 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 00:00:06.1886 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'BwMZ38UCj33CBs5mOnY3cn8tkP2uIcc9','expiresAt':'2019-12-12T00:15:06.188+03:00' 
+2019-12-12 00:00:06.5480 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 00:00:06.5480 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'co8Ebjj15fHE3XmBTTydUuwOnSoe5Zu7','expiresAt':'2019-12-12T00:15:06.548+03:00' 
+2019-12-12 00:00:06.6106 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 00:00:06.6262 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'QtZMjrBe3XxwWtpCdrQpdzeiskQ8v5vW','expiresAt':'2019-12-12T00:15:06.626+03:00' 
+2019-12-12 00:00:06.8762 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 00:00:06.8918 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'lAo9yPScHJZxwzsudb1E84TRFqTzQ3jy','expiresAt':'2019-12-12T00:15:06.891+03:00' 
+2019-12-12 00:00:07.2356 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 00:00:07.2356 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'bRAL5gEDOoXJQhmtrWVJ3gNhgNu7vSBE','expiresAt':'2019-12-12T00:15:07.235+03:00' 
+2019-12-12 00:00:07.4856 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 00:00:07.4856 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'aaMUoWowNnpKX90X4a7uXPuu4Tfil6Hw','expiresAt':'2019-12-12T00:15:07.485+03:00' 
+2019-12-12 00:00:07.5637 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 00:00:07.5637 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'dJjpLH4LhYwGq3AWMM3KLGgAgRQKq6BG','expiresAt':'2019-12-12T00:15:07.563+03:00' 
+2019-12-12 00:00:07.6263 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 00:00:07.6263 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'WtgDPBCmWmDzTe40J8MO2waMcZ9urjUa','expiresAt':'2019-12-12T00:15:07.626+03:00' 
+2019-12-12 00:02:08.3401 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 00:02:08.3401 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'MfjxMw6AAHoZ2hg1NP0iknEZJKbq1Ivm','expiresAt':'2019-12-12T00:17:08.340+03:00' 
+2019-12-12 00:02:08.5902 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 00:02:08.5902 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'Hdcnu7eN1BEk81Kus8XRimpZQAd2KG9r','expiresAt':'2019-12-12T00:17:08.590+03:00' 
+2019-12-12 00:34:26.8148 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 00:34:26.8148 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'M1HP5s6GldgZYTRHzgxtlT3Vn2NkTc2l','expiresAt':'2019-12-12T00:49:26.814+03:00' 
+2019-12-12 00:34:26.8304 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.RemoveExpiredTokens:77] Trace: Token ''accessToken':'598JcOr02VCyV89CF39sRNyXCubjeb93','expiresAt':'2019-12-12T00:15:00.188+03:00'' is being removed 
+2019-12-12 00:34:26.8304 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.RemoveExpiredTokens:77] Trace: Token ''accessToken':'7Jt0JfBTbfhIB59I9mYV5JShBa6in7MQ','expiresAt':'2019-12-12T00:15:03.516+03:00'' is being removed 
+2019-12-12 00:34:26.8304 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.RemoveExpiredTokens:77] Trace: Token ''accessToken':'M8qCE8sZrgGmgfM6kIar3dyorCojZTfT','expiresAt':'2019-12-12T00:15:03.844+03:00'' is being removed 
+2019-12-12 00:34:26.8304 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.RemoveExpiredTokens:77] Trace: Token ''accessToken':'IHw2Fx40uyeO2f1WEzxUXVMjA2L2K90N','expiresAt':'2019-12-12T00:15:03.938+03:00'' is being removed 
+2019-12-12 00:34:26.8304 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.RemoveExpiredTokens:77] Trace: Token ''accessToken':'0mTPjJrmEZw5zZlBBIUZVBwnuDsCc1gl','expiresAt':'2019-12-12T00:15:04.344+03:00'' is being removed 
+2019-12-12 00:34:26.8304 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.RemoveExpiredTokens:77] Trace: Token ''accessToken':'yGNGCcnv7BGyYHjaH9r1eRspqgUVQeAC','expiresAt':'2019-12-12T00:15:04.422+03:00'' is being removed 
+2019-12-12 00:34:26.8304 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.RemoveExpiredTokens:77] Trace: Token ''accessToken':'sB7iBVyZVYRKuyEcTIvSAf6WOYPW7HUT','expiresAt':'2019-12-12T00:15:04.485+03:00'' is being removed 
+2019-12-12 00:34:26.8304 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.RemoveExpiredTokens:77] Trace: Token ''accessToken':'135MA1OlAIV6zXusRs28jh1D5aKd5SRE','expiresAt':'2019-12-12T00:15:04.876+03:00'' is being removed 
+2019-12-12 00:34:26.8304 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.RemoveExpiredTokens:77] Trace: Token ''accessToken':'3yJrsrSSt9Hs90XqdW4EEMjJ1sGaglfi','expiresAt':'2019-12-12T00:15:05.204+03:00'' is being removed 
+2019-12-12 00:34:26.8304 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.RemoveExpiredTokens:77] Trace: Token ''accessToken':'qH21D3zZPaEZP9353TzZOCzhE0p0bsl8','expiresAt':'2019-12-12T00:15:05.469+03:00'' is being removed 
+2019-12-12 00:34:26.8304 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.RemoveExpiredTokens:77] Trace: Token ''accessToken':'UZ2rxVdaWUpe7AtsoAXDm6KdIKmDDzyX','expiresAt':'2019-12-12T00:15:05.594+03:00'' is being removed 
+2019-12-12 00:34:26.8304 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.RemoveExpiredTokens:77] Trace: Token ''accessToken':'o65q7C7XqO2tNKZ46xCQKYLNEPYdjPNX','expiresAt':'2019-12-12T00:15:05.673+03:00'' is being removed 
+2019-12-12 00:34:26.8304 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.RemoveExpiredTokens:77] Trace: Token ''accessToken':'WHq152lb30NN4RFyli7FnYDGkhbidUoQ','expiresAt':'2019-12-12T00:15:05.891+03:00'' is being removed 
+2019-12-12 00:34:26.8304 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.RemoveExpiredTokens:77] Trace: Token ''accessToken':'1VN6UYz3CaNKAyJn9as0I7kx4ZGNR2xY','expiresAt':'2019-12-12T00:15:06.110+03:00'' is being removed 
+2019-12-12 00:34:26.8304 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.RemoveExpiredTokens:77] Trace: Token ''accessToken':'BwMZ38UCj33CBs5mOnY3cn8tkP2uIcc9','expiresAt':'2019-12-12T00:15:06.188+03:00'' is being removed 
+2019-12-12 00:34:26.8304 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.RemoveExpiredTokens:77] Trace: Token ''accessToken':'co8Ebjj15fHE3XmBTTydUuwOnSoe5Zu7','expiresAt':'2019-12-12T00:15:06.548+03:00'' is being removed 
+2019-12-12 00:34:26.8304 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.RemoveExpiredTokens:77] Trace: Token ''accessToken':'QtZMjrBe3XxwWtpCdrQpdzeiskQ8v5vW','expiresAt':'2019-12-12T00:15:06.626+03:00'' is being removed 
+2019-12-12 00:34:26.8304 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.RemoveExpiredTokens:77] Trace: Token ''accessToken':'lAo9yPScHJZxwzsudb1E84TRFqTzQ3jy','expiresAt':'2019-12-12T00:15:06.891+03:00'' is being removed 
+2019-12-12 00:34:26.8304 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.RemoveExpiredTokens:77] Trace: Token ''accessToken':'bRAL5gEDOoXJQhmtrWVJ3gNhgNu7vSBE','expiresAt':'2019-12-12T00:15:07.235+03:00'' is being removed 
+2019-12-12 00:34:26.8304 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.RemoveExpiredTokens:77] Trace: Token ''accessToken':'aaMUoWowNnpKX90X4a7uXPuu4Tfil6Hw','expiresAt':'2019-12-12T00:15:07.485+03:00'' is being removed 
+2019-12-12 00:34:26.8304 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.RemoveExpiredTokens:77] Trace: Token ''accessToken':'dJjpLH4LhYwGq3AWMM3KLGgAgRQKq6BG','expiresAt':'2019-12-12T00:15:07.563+03:00'' is being removed 
+2019-12-12 00:34:26.8304 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.RemoveExpiredTokens:77] Trace: Token ''accessToken':'WtgDPBCmWmDzTe40J8MO2waMcZ9urjUa','expiresAt':'2019-12-12T00:15:07.626+03:00'' is being removed 
+2019-12-12 00:34:26.8304 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.RemoveExpiredTokens:77] Trace: Token ''accessToken':'MfjxMw6AAHoZ2hg1NP0iknEZJKbq1Ivm','expiresAt':'2019-12-12T00:17:08.340+03:00'' is being removed 
+2019-12-12 00:34:26.8304 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.RemoveExpiredTokens:77] Trace: Token ''accessToken':'Hdcnu7eN1BEk81Kus8XRimpZQAd2KG9r','expiresAt':'2019-12-12T00:17:08.590+03:00'' is being removed 
+2019-12-12 00:34:26.8304 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.CheckToken:55] Info: Проверка токена: M1HP5s6GldgZYTRHzgxtlT3Vn2NkTc2l 
+2019-12-12 00:34:26.8304 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.CheckToken:59] Info: Проверка успешна: 'accessToken':'M1HP5s6GldgZYTRHzgxtlT3Vn2NkTc2l','expiresAt':'2019-12-12T00:49:26.814+03:00' 
+2019-12-12 03:00:00.5328 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 03:00:00.5484 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'1MO6jupz1Gg56G0xjM2eJF6sxmb2VMm8','expiresAt':'2019-12-12T03:15:00.548+03:00' 
+2019-12-12 03:00:04.3925 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 03:00:04.3925 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'auXC5KX5qxsUnyOW2P16aOSmGV8xInTf','expiresAt':'2019-12-12T03:15:04.392+03:00' 
+2019-12-12 03:00:04.5175 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 03:00:04.5175 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'UXUBiorOoxoLNb5zN4z6KgYCSlvZBam2','expiresAt':'2019-12-12T03:15:04.517+03:00' 
+2019-12-12 03:00:04.9238 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 03:00:04.9238 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'TD0GTDnEYcIda6PeQ9aDoNKnyIjxsIDE','expiresAt':'2019-12-12T03:15:04.923+03:00' 
+2019-12-12 03:00:05.0019 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 03:00:05.0019 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'Alr9bpWAGlXiNvcLLG92zYE5sCHBUqLF','expiresAt':'2019-12-12T03:15:05.001+03:00' 
+2019-12-12 03:00:05.0644 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 03:00:05.0644 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'P3SoEF3bdQx2pcQ3gNcb9AEcWlHOXLgQ','expiresAt':'2019-12-12T03:15:05.064+03:00' 
+2019-12-12 03:00:05.4707 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 03:00:05.4707 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'PIIKTn66CXPZbBFGmDU6Dk6EopHSyf3I','expiresAt':'2019-12-12T03:15:05.470+03:00' 
+2019-12-12 03:00:05.8301 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 03:00:05.8457 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'jWdXJ6asGWOblf1LW1cKqZDfB3VdVd7X','expiresAt':'2019-12-12T03:15:05.845+03:00' 
+2019-12-12 03:00:06.4864 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 03:00:06.4864 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'T7p5XhwgdcqhLVT9owwx3jRAIyMGbwMc','expiresAt':'2019-12-12T03:15:06.486+03:00' 
+2019-12-12 03:00:06.6115 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 03:00:06.6427 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'Oq7dpwno4vgDiVJgZLpZhAUkfemZLg5g','expiresAt':'2019-12-12T03:15:06.642+03:00' 
+2019-12-12 03:00:07.1740 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 03:00:07.1740 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'FDIUNpKr88s72ESmeggF6nvDMNyA9DSO','expiresAt':'2019-12-12T03:15:07.174+03:00' 
+2019-12-12 03:00:07.5334 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 03:00:07.5334 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'q0yUDoJj0yQYIMiRCzufzpaRI57zr9hu','expiresAt':'2019-12-12T03:15:07.533+03:00' 
+2019-12-12 03:00:07.6115 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 03:00:07.6115 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'fTH2FxZqNwE8NNv0fXxAJnO0QXC7gJsq','expiresAt':'2019-12-12T03:15:07.611+03:00' 
+2019-12-12 03:00:08.4240 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 03:00:08.4240 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'GVso5fBFP4H3aR4v97KJCXbr5GcilR94','expiresAt':'2019-12-12T03:15:08.424+03:00' 
+2019-12-12 03:00:08.4866 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 03:00:08.4866 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'3NsrU6uzLhkEWLQySGxYyYeit0jo3TUy','expiresAt':'2019-12-12T03:15:08.486+03:00' 
+2019-12-12 03:00:08.9085 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 03:00:08.9085 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'vDzCYDR3CLyUnNLjqdFUUa5Uj9xTN5vr','expiresAt':'2019-12-12T03:15:08.908+03:00' 
+2019-12-12 03:00:09.5179 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 03:00:09.5179 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'DmJILDPFpuLda9vWezyQE0UK8VTPFxg7','expiresAt':'2019-12-12T03:15:09.517+03:00' 
+2019-12-12 03:00:09.7367 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 03:00:09.7367 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'P6H043OdD0eZERuZDQoN7UdCIy9qj0zs','expiresAt':'2019-12-12T03:15:09.736+03:00' 
+2019-12-12 03:00:09.8148 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 03:00:09.8148 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'EEEUsuSbaLDELu6gbuBp8IzuS4i5tYtC','expiresAt':'2019-12-12T03:15:09.814+03:00' 
+2019-12-12 03:00:09.8930 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 03:00:09.8930 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'0mLzDPgIyDmlHPqNrSFppAjwFJ1nCMh2','expiresAt':'2019-12-12T03:15:09.893+03:00' 
+2019-12-12 03:02:10.5756 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 03:02:10.5756 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'R0DZZ6TBDsqvVDc2DKEQJ4Np3PkuNs6b','expiresAt':'2019-12-12T03:17:10.575+03:00' 
+2019-12-12 03:02:10.7787 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 03:02:10.7787 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'VkKHCHokz3bwKnQ1gzar8HjNcOWAMZnK','expiresAt':'2019-12-12T03:17:10.778+03:00' 
+2019-12-12 06:00:00.6975 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 06:00:00.6975 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'mFQltLqwWTRFSRVFyjDOIETD0wfnleOQ','expiresAt':'2019-12-12T06:15:00.697+03:00' 
+2019-12-12 06:00:05.9323 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 06:00:05.9323 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'GHA4Me7L8dLfqUuBtGBdLO1XlClwf3Ar','expiresAt':'2019-12-12T06:15:05.932+03:00' 
+2019-12-12 06:00:06.0105 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 06:00:06.0105 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'40yBGQtJbsFftnNV2UuVSl4rFdJAtAf5','expiresAt':'2019-12-12T06:15:06.010+03:00' 
+2019-12-12 06:00:06.3543 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 06:00:06.3543 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'STapVjuSNr1S9MdypFuB8fPJw7vd7iQR','expiresAt':'2019-12-12T06:15:06.354+03:00' 
+2019-12-12 06:00:06.4324 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 06:00:06.4324 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'DACQCYzIaR8ajbitzKLeFUxn4HtOoGLe','expiresAt':'2019-12-12T06:15:06.432+03:00' 
+2019-12-12 06:00:06.5261 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 06:00:06.5261 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'RZFz9DlHFbbhXoZKP1dmNmCjDOMvebUJ','expiresAt':'2019-12-12T06:15:06.526+03:00' 
+2019-12-12 06:00:06.8699 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 06:00:06.8699 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'5U9ALjjmZ3OdsFGFiYzmcZGfNWmkrqce','expiresAt':'2019-12-12T06:15:06.869+03:00' 
+2019-12-12 06:00:07.2137 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 06:00:07.2137 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'6Hb2fPyfHrCJNYqx86D5bihWDTmoxyvj','expiresAt':'2019-12-12T06:15:07.213+03:00' 
+2019-12-12 06:00:07.5731 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 06:00:07.5731 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'RkXbeDaIaJUlMwHpgoclcW2Oa4pBc9iJ','expiresAt':'2019-12-12T06:15:07.573+03:00' 
+2019-12-12 06:00:07.6515 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 06:00:07.6515 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'wTsd1EIvVuVHEv9HCx88M96vh81ZOPgQ','expiresAt':'2019-12-12T06:15:07.651+03:00' 
+2019-12-12 06:00:07.8700 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 06:00:07.8700 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'bBot4eoRWgFi0k9evYze1awmMxwsDiX6','expiresAt':'2019-12-12T06:15:07.870+03:00' 
+2019-12-12 06:00:08.1200 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 06:00:08.1356 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'E4g37FCY9gbfuOuwzMepQ1P0E2X6hwDn','expiresAt':'2019-12-12T06:15:08.135+03:00' 
+2019-12-12 06:00:08.1982 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 06:00:08.1982 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'99Uw46XfLQVKyGrx3ztr4hfCffo4i5qD','expiresAt':'2019-12-12T06:15:08.198+03:00' 
+2019-12-12 06:00:08.5420 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 06:00:08.5576 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'SoWluxsspzUzV52xAa3i2MjSTHHOISxF','expiresAt':'2019-12-12T06:15:08.557+03:00' 
+2019-12-12 06:00:08.6201 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 06:00:08.6201 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'aIrAk6257015Cggadru828A644HdgTaM','expiresAt':'2019-12-12T06:15:08.620+03:00' 
+2019-12-12 06:00:08.8389 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 06:00:08.8389 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'1FPDDsC3Xya2KeFnaglQYoDS7l5gpPOd','expiresAt':'2019-12-12T06:15:08.838+03:00' 
+2019-12-12 06:00:09.2139 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 06:00:09.2139 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'Qf3xGSMleqb3X8lQoT2zi9nC2x5SmWE7','expiresAt':'2019-12-12T06:15:09.213+03:00' 
+2019-12-12 06:00:09.4327 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 06:00:09.4327 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'ZxbfbIW7KzmiD9uzzfrLNOuHrquJMuy7','expiresAt':'2019-12-12T06:15:09.432+03:00' 
+2019-12-12 06:00:09.5108 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 06:00:09.5108 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'cUUaX6pWwufiM5zt26S6fsjA2JnkNDkP','expiresAt':'2019-12-12T06:15:09.510+03:00' 
+2019-12-12 06:00:09.5889 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 06:00:09.5889 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'1f5jfJStqKPSjBulr1GGSrRkkJXDI49j','expiresAt':'2019-12-12T06:15:09.588+03:00' 
+2019-12-12 06:02:10.3202 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 06:02:10.3202 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'AFhhzFDjeYGLTHRrP2tLwUx9DLzLmFbl','expiresAt':'2019-12-12T06:17:10.320+03:00' 
+2019-12-12 06:02:10.5233 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 06:02:10.5233 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'BfITTClbnXctb6HTrgnFAnnfHYUeGrwO','expiresAt':'2019-12-12T06:17:10.523+03:00' 
+2019-12-12 07:39:20.9789 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 07:39:20.9789 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'xV9nyxNCGIXOs4Y64WU5RLaNrcCvi7Kw','expiresAt':'2019-12-12T07:54:20.978+03:00' 
+2019-12-12 07:39:20.9946 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.RemoveExpiredTokens:77] Trace: Token ''accessToken':'M1HP5s6GldgZYTRHzgxtlT3Vn2NkTc2l','expiresAt':'2019-12-12T00:49:26.814+03:00'' is being removed 
+2019-12-12 07:39:20.9946 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.RemoveExpiredTokens:77] Trace: Token ''accessToken':'1MO6jupz1Gg56G0xjM2eJF6sxmb2VMm8','expiresAt':'2019-12-12T03:15:00.548+03:00'' is being removed 
+2019-12-12 07:39:20.9946 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.RemoveExpiredTokens:77] Trace: Token ''accessToken':'auXC5KX5qxsUnyOW2P16aOSmGV8xInTf','expiresAt':'2019-12-12T03:15:04.392+03:00'' is being removed 
+2019-12-12 07:39:20.9946 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.RemoveExpiredTokens:77] Trace: Token ''accessToken':'UXUBiorOoxoLNb5zN4z6KgYCSlvZBam2','expiresAt':'2019-12-12T03:15:04.517+03:00'' is being removed 
+2019-12-12 07:39:20.9946 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.RemoveExpiredTokens:77] Trace: Token ''accessToken':'TD0GTDnEYcIda6PeQ9aDoNKnyIjxsIDE','expiresAt':'2019-12-12T03:15:04.923+03:00'' is being removed 
+2019-12-12 07:39:20.9946 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.RemoveExpiredTokens:77] Trace: Token ''accessToken':'Alr9bpWAGlXiNvcLLG92zYE5sCHBUqLF','expiresAt':'2019-12-12T03:15:05.001+03:00'' is being removed 
+2019-12-12 07:39:20.9946 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.RemoveExpiredTokens:77] Trace: Token ''accessToken':'P3SoEF3bdQx2pcQ3gNcb9AEcWlHOXLgQ','expiresAt':'2019-12-12T03:15:05.064+03:00'' is being removed 
+2019-12-12 07:39:20.9946 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.RemoveExpiredTokens:77] Trace: Token ''accessToken':'PIIKTn66CXPZbBFGmDU6Dk6EopHSyf3I','expiresAt':'2019-12-12T03:15:05.470+03:00'' is being removed 
+2019-12-12 07:39:20.9946 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.RemoveExpiredTokens:77] Trace: Token ''accessToken':'jWdXJ6asGWOblf1LW1cKqZDfB3VdVd7X','expiresAt':'2019-12-12T03:15:05.845+03:00'' is being removed 
+2019-12-12 07:39:20.9946 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.RemoveExpiredTokens:77] Trace: Token ''accessToken':'T7p5XhwgdcqhLVT9owwx3jRAIyMGbwMc','expiresAt':'2019-12-12T03:15:06.486+03:00'' is being removed 
+2019-12-12 07:39:20.9946 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.RemoveExpiredTokens:77] Trace: Token ''accessToken':'Oq7dpwno4vgDiVJgZLpZhAUkfemZLg5g','expiresAt':'2019-12-12T03:15:06.642+03:00'' is being removed 
+2019-12-12 07:39:20.9946 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.RemoveExpiredTokens:77] Trace: Token ''accessToken':'FDIUNpKr88s72ESmeggF6nvDMNyA9DSO','expiresAt':'2019-12-12T03:15:07.174+03:00'' is being removed 
+2019-12-12 07:39:20.9946 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.RemoveExpiredTokens:77] Trace: Token ''accessToken':'q0yUDoJj0yQYIMiRCzufzpaRI57zr9hu','expiresAt':'2019-12-12T03:15:07.533+03:00'' is being removed 
+2019-12-12 07:39:20.9946 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.RemoveExpiredTokens:77] Trace: Token ''accessToken':'fTH2FxZqNwE8NNv0fXxAJnO0QXC7gJsq','expiresAt':'2019-12-12T03:15:07.611+03:00'' is being removed 
+2019-12-12 07:39:20.9946 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.RemoveExpiredTokens:77] Trace: Token ''accessToken':'GVso5fBFP4H3aR4v97KJCXbr5GcilR94','expiresAt':'2019-12-12T03:15:08.424+03:00'' is being removed 
+2019-12-12 07:39:20.9946 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.RemoveExpiredTokens:77] Trace: Token ''accessToken':'3NsrU6uzLhkEWLQySGxYyYeit0jo3TUy','expiresAt':'2019-12-12T03:15:08.486+03:00'' is being removed 
+2019-12-12 07:39:20.9946 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.RemoveExpiredTokens:77] Trace: Token ''accessToken':'vDzCYDR3CLyUnNLjqdFUUa5Uj9xTN5vr','expiresAt':'2019-12-12T03:15:08.908+03:00'' is being removed 
+2019-12-12 07:39:20.9946 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.RemoveExpiredTokens:77] Trace: Token ''accessToken':'DmJILDPFpuLda9vWezyQE0UK8VTPFxg7','expiresAt':'2019-12-12T03:15:09.517+03:00'' is being removed 
+2019-12-12 07:39:20.9946 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.RemoveExpiredTokens:77] Trace: Token ''accessToken':'P6H043OdD0eZERuZDQoN7UdCIy9qj0zs','expiresAt':'2019-12-12T03:15:09.736+03:00'' is being removed 
+2019-12-12 07:39:20.9946 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.RemoveExpiredTokens:77] Trace: Token ''accessToken':'EEEUsuSbaLDELu6gbuBp8IzuS4i5tYtC','expiresAt':'2019-12-12T03:15:09.814+03:00'' is being removed 
+2019-12-12 07:39:20.9946 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.RemoveExpiredTokens:77] Trace: Token ''accessToken':'0mLzDPgIyDmlHPqNrSFppAjwFJ1nCMh2','expiresAt':'2019-12-12T03:15:09.893+03:00'' is being removed 
+2019-12-12 07:39:20.9946 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.RemoveExpiredTokens:77] Trace: Token ''accessToken':'R0DZZ6TBDsqvVDc2DKEQJ4Np3PkuNs6b','expiresAt':'2019-12-12T03:17:10.575+03:00'' is being removed 
+2019-12-12 07:39:20.9946 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.RemoveExpiredTokens:77] Trace: Token ''accessToken':'VkKHCHokz3bwKnQ1gzar8HjNcOWAMZnK','expiresAt':'2019-12-12T03:17:10.778+03:00'' is being removed 
+2019-12-12 07:39:20.9946 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.RemoveExpiredTokens:77] Trace: Token ''accessToken':'mFQltLqwWTRFSRVFyjDOIETD0wfnleOQ','expiresAt':'2019-12-12T06:15:00.697+03:00'' is being removed 
+2019-12-12 07:39:20.9946 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.RemoveExpiredTokens:77] Trace: Token ''accessToken':'GHA4Me7L8dLfqUuBtGBdLO1XlClwf3Ar','expiresAt':'2019-12-12T06:15:05.932+03:00'' is being removed 
+2019-12-12 07:39:20.9946 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.RemoveExpiredTokens:77] Trace: Token ''accessToken':'40yBGQtJbsFftnNV2UuVSl4rFdJAtAf5','expiresAt':'2019-12-12T06:15:06.010+03:00'' is being removed 
+2019-12-12 07:39:20.9946 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.RemoveExpiredTokens:77] Trace: Token ''accessToken':'STapVjuSNr1S9MdypFuB8fPJw7vd7iQR','expiresAt':'2019-12-12T06:15:06.354+03:00'' is being removed 
+2019-12-12 07:39:20.9946 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.RemoveExpiredTokens:77] Trace: Token ''accessToken':'DACQCYzIaR8ajbitzKLeFUxn4HtOoGLe','expiresAt':'2019-12-12T06:15:06.432+03:00'' is being removed 
+2019-12-12 07:39:20.9946 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.RemoveExpiredTokens:77] Trace: Token ''accessToken':'RZFz9DlHFbbhXoZKP1dmNmCjDOMvebUJ','expiresAt':'2019-12-12T06:15:06.526+03:00'' is being removed 
+2019-12-12 07:39:20.9946 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.RemoveExpiredTokens:77] Trace: Token ''accessToken':'5U9ALjjmZ3OdsFGFiYzmcZGfNWmkrqce','expiresAt':'2019-12-12T06:15:06.869+03:00'' is being removed 
+2019-12-12 07:39:20.9946 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.RemoveExpiredTokens:77] Trace: Token ''accessToken':'6Hb2fPyfHrCJNYqx86D5bihWDTmoxyvj','expiresAt':'2019-12-12T06:15:07.213+03:00'' is being removed 
+2019-12-12 07:39:20.9946 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.RemoveExpiredTokens:77] Trace: Token ''accessToken':'RkXbeDaIaJUlMwHpgoclcW2Oa4pBc9iJ','expiresAt':'2019-12-12T06:15:07.573+03:00'' is being removed 
+2019-12-12 07:39:20.9946 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.RemoveExpiredTokens:77] Trace: Token ''accessToken':'wTsd1EIvVuVHEv9HCx88M96vh81ZOPgQ','expiresAt':'2019-12-12T06:15:07.651+03:00'' is being removed 
+2019-12-12 07:39:20.9946 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.RemoveExpiredTokens:77] Trace: Token ''accessToken':'bBot4eoRWgFi0k9evYze1awmMxwsDiX6','expiresAt':'2019-12-12T06:15:07.870+03:00'' is being removed 
+2019-12-12 07:39:20.9946 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.RemoveExpiredTokens:77] Trace: Token ''accessToken':'E4g37FCY9gbfuOuwzMepQ1P0E2X6hwDn','expiresAt':'2019-12-12T06:15:08.135+03:00'' is being removed 
+2019-12-12 07:39:20.9946 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.RemoveExpiredTokens:77] Trace: Token ''accessToken':'99Uw46XfLQVKyGrx3ztr4hfCffo4i5qD','expiresAt':'2019-12-12T06:15:08.198+03:00'' is being removed 
+2019-12-12 07:39:20.9946 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.RemoveExpiredTokens:77] Trace: Token ''accessToken':'SoWluxsspzUzV52xAa3i2MjSTHHOISxF','expiresAt':'2019-12-12T06:15:08.557+03:00'' is being removed 
+2019-12-12 07:39:20.9946 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.RemoveExpiredTokens:77] Trace: Token ''accessToken':'aIrAk6257015Cggadru828A644HdgTaM','expiresAt':'2019-12-12T06:15:08.620+03:00'' is being removed 
+2019-12-12 07:39:20.9946 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.RemoveExpiredTokens:77] Trace: Token ''accessToken':'1FPDDsC3Xya2KeFnaglQYoDS7l5gpPOd','expiresAt':'2019-12-12T06:15:08.838+03:00'' is being removed 
+2019-12-12 07:39:20.9946 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.RemoveExpiredTokens:77] Trace: Token ''accessToken':'Qf3xGSMleqb3X8lQoT2zi9nC2x5SmWE7','expiresAt':'2019-12-12T06:15:09.213+03:00'' is being removed 
+2019-12-12 07:39:20.9946 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.RemoveExpiredTokens:77] Trace: Token ''accessToken':'ZxbfbIW7KzmiD9uzzfrLNOuHrquJMuy7','expiresAt':'2019-12-12T06:15:09.432+03:00'' is being removed 
+2019-12-12 07:39:20.9946 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.RemoveExpiredTokens:77] Trace: Token ''accessToken':'cUUaX6pWwufiM5zt26S6fsjA2JnkNDkP','expiresAt':'2019-12-12T06:15:09.510+03:00'' is being removed 
+2019-12-12 07:39:21.0102 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.RemoveExpiredTokens:77] Trace: Token ''accessToken':'1f5jfJStqKPSjBulr1GGSrRkkJXDI49j','expiresAt':'2019-12-12T06:15:09.588+03:00'' is being removed 
+2019-12-12 07:39:21.0102 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.RemoveExpiredTokens:77] Trace: Token ''accessToken':'AFhhzFDjeYGLTHRrP2tLwUx9DLzLmFbl','expiresAt':'2019-12-12T06:17:10.320+03:00'' is being removed 
+2019-12-12 07:39:21.0102 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.RemoveExpiredTokens:77] Trace: Token ''accessToken':'BfITTClbnXctb6HTrgnFAnnfHYUeGrwO','expiresAt':'2019-12-12T06:17:10.523+03:00'' is being removed 
+2019-12-12 07:39:21.0102 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.CheckToken:55] Info: Проверка токена: xV9nyxNCGIXOs4Y64WU5RLaNrcCvi7Kw 
+2019-12-12 07:39:21.0102 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.CheckToken:59] Info: Проверка успешна: 'accessToken':'xV9nyxNCGIXOs4Y64WU5RLaNrcCvi7Kw','expiresAt':'2019-12-12T07:54:20.978+03:00' 
+2019-12-12 09:00:00.2184 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 09:00:00.2184 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'aDw5wTUuIbzsGPnD0OakNqxbumwLlSU9','expiresAt':'2019-12-12T09:15:00.218+03:00' 
+2019-12-12 09:00:01.2028 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 09:00:01.2028 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'xbne7S9a1ZnqMi7SpyuKWaYjFKBAX88q','expiresAt':'2019-12-12T09:15:01.202+03:00' 
+2019-12-12 09:00:01.2810 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 09:00:01.2810 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'7queb85XEzin37FBeTWmX9cM33PnHz3t','expiresAt':'2019-12-12T09:15:01.281+03:00' 
+2019-12-12 09:00:01.7966 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 09:00:01.7966 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'QwiVnSqgsN5Xskg84zV3cMIxDYbXjIGF','expiresAt':'2019-12-12T09:15:01.796+03:00' 
+2019-12-12 09:00:01.9373 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 09:00:01.9373 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'wpM7OjOCcptA44UINGiHT0G4dlIFrIxa','expiresAt':'2019-12-12T09:15:01.937+03:00' 
+2019-12-12 09:00:02.0154 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 09:00:02.0154 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'6qb2NYkKbJQmS8t83JASZzmvYITcR8KJ','expiresAt':'2019-12-12T09:15:02.015+03:00' 
+2019-12-12 09:00:02.3748 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 09:00:02.3748 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'sJ3DTRuoWNgAZUcVr9BY8U074fU557tS','expiresAt':'2019-12-12T09:15:02.374+03:00' 
+2019-12-12 09:00:02.7967 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 09:00:02.7967 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'y6u94ffbOLwBIcM4fylIxmBNIw9oxoiO','expiresAt':'2019-12-12T09:15:02.796+03:00' 
+2019-12-12 09:00:03.2030 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 09:00:03.2030 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'UEBTZTQBTa9mXooRJPP7MaVCvWq8Vrea','expiresAt':'2019-12-12T09:15:03.203+03:00' 
+2019-12-12 09:00:03.3593 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 09:00:03.3593 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'cYh4QtVCXZoMdOqT7hUXOb2ujzX2cHgc','expiresAt':'2019-12-12T09:15:03.359+03:00' 
+2019-12-12 09:00:03.7812 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 09:00:03.7812 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'vYAz7k1PuDZml8YWgN0nM6B1VmKRLSaG','expiresAt':'2019-12-12T09:15:03.781+03:00' 
+2019-12-12 09:00:04.0156 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 09:00:04.0156 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'tCR4ErLNg5dB1F8bQ1MFHsGpN8TLPZ4S','expiresAt':'2019-12-12T09:15:04.015+03:00' 
+2019-12-12 09:00:04.0937 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 09:00:04.0937 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'cJtZhUIp1c7HT0zGej1J5Lz0wbh5O0y7','expiresAt':'2019-12-12T09:15:04.093+03:00' 
+2019-12-12 09:00:04.5156 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 09:00:04.5156 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'0BYiMZuviXDelyMM8CgfYkMHKsc5nCQ0','expiresAt':'2019-12-12T09:15:04.515+03:00' 
+2019-12-12 09:00:04.6094 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 09:00:04.6094 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'e0HHRHu4p5bY7KFxFKwBJIYFoHOTwp8W','expiresAt':'2019-12-12T09:15:04.609+03:00' 
+2019-12-12 09:00:04.8438 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 09:00:04.8438 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'6Czlh4urIcqT9oAzcepSGFhMR1SAtQ70','expiresAt':'2019-12-12T09:15:04.843+03:00' 
+2019-12-12 09:00:05.4063 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 09:00:05.4063 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'w5RuLUGBQ5thR5506OqHzgFrVdJfbjyr','expiresAt':'2019-12-12T09:15:05.406+03:00' 
+2019-12-12 09:00:05.6407 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 09:00:05.6407 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'UqW4MGe7Od2BMzuMvS4Uap0FpaOhBaag','expiresAt':'2019-12-12T09:15:05.640+03:00' 
+2019-12-12 09:00:05.7188 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 09:00:05.7188 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'71CbY1eqkitMe4VVjxk9fTHfqGFmrwwo','expiresAt':'2019-12-12T09:15:05.718+03:00' 
+2019-12-12 09:00:05.7970 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 09:00:05.7970 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'2M3KnJnunDjrwdbk4syDpR0dkXkHlszo','expiresAt':'2019-12-12T09:15:05.797+03:00' 
+2019-12-12 09:02:06.7643 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 09:02:06.7643 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'m4JI0BiQ9pLSjQiCfUhyyiybLQaFYW8v','expiresAt':'2019-12-12T09:17:06.764+03:00' 
+2019-12-12 09:02:06.9987 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 09:02:06.9987 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'Ev4rJJktAY406YuKoYcHA0p46iwaaSsd','expiresAt':'2019-12-12T09:17:06.998+03:00' 
+2019-12-12 09:47:26.3759 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 09:47:26.3915 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'gPEnLrsLkooQeyVnVFR0trlD60lbN9Ii','expiresAt':'2019-12-12T10:02:26.391+03:00' 
+2019-12-12 09:47:26.3915 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.RemoveExpiredTokens:77] Trace: Token ''accessToken':'xV9nyxNCGIXOs4Y64WU5RLaNrcCvi7Kw','expiresAt':'2019-12-12T07:54:20.978+03:00'' is being removed 
+2019-12-12 09:47:26.3915 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.RemoveExpiredTokens:77] Trace: Token ''accessToken':'aDw5wTUuIbzsGPnD0OakNqxbumwLlSU9','expiresAt':'2019-12-12T09:15:00.218+03:00'' is being removed 
+2019-12-12 09:47:26.3915 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.RemoveExpiredTokens:77] Trace: Token ''accessToken':'xbne7S9a1ZnqMi7SpyuKWaYjFKBAX88q','expiresAt':'2019-12-12T09:15:01.202+03:00'' is being removed 
+2019-12-12 09:47:26.3915 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.RemoveExpiredTokens:77] Trace: Token ''accessToken':'7queb85XEzin37FBeTWmX9cM33PnHz3t','expiresAt':'2019-12-12T09:15:01.281+03:00'' is being removed 
+2019-12-12 09:47:26.3915 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.RemoveExpiredTokens:77] Trace: Token ''accessToken':'QwiVnSqgsN5Xskg84zV3cMIxDYbXjIGF','expiresAt':'2019-12-12T09:15:01.796+03:00'' is being removed 
+2019-12-12 09:47:26.3915 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.RemoveExpiredTokens:77] Trace: Token ''accessToken':'wpM7OjOCcptA44UINGiHT0G4dlIFrIxa','expiresAt':'2019-12-12T09:15:01.937+03:00'' is being removed 
+2019-12-12 09:47:26.3915 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.RemoveExpiredTokens:77] Trace: Token ''accessToken':'6qb2NYkKbJQmS8t83JASZzmvYITcR8KJ','expiresAt':'2019-12-12T09:15:02.015+03:00'' is being removed 
+2019-12-12 09:47:26.4071 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.RemoveExpiredTokens:77] Trace: Token ''accessToken':'sJ3DTRuoWNgAZUcVr9BY8U074fU557tS','expiresAt':'2019-12-12T09:15:02.374+03:00'' is being removed 
+2019-12-12 09:47:26.4071 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.RemoveExpiredTokens:77] Trace: Token ''accessToken':'y6u94ffbOLwBIcM4fylIxmBNIw9oxoiO','expiresAt':'2019-12-12T09:15:02.796+03:00'' is being removed 
+2019-12-12 09:47:26.4071 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.RemoveExpiredTokens:77] Trace: Token ''accessToken':'UEBTZTQBTa9mXooRJPP7MaVCvWq8Vrea','expiresAt':'2019-12-12T09:15:03.203+03:00'' is being removed 
+2019-12-12 09:47:26.4071 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.RemoveExpiredTokens:77] Trace: Token ''accessToken':'cYh4QtVCXZoMdOqT7hUXOb2ujzX2cHgc','expiresAt':'2019-12-12T09:15:03.359+03:00'' is being removed 
+2019-12-12 09:47:26.4071 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.RemoveExpiredTokens:77] Trace: Token ''accessToken':'vYAz7k1PuDZml8YWgN0nM6B1VmKRLSaG','expiresAt':'2019-12-12T09:15:03.781+03:00'' is being removed 
+2019-12-12 09:47:26.4071 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.RemoveExpiredTokens:77] Trace: Token ''accessToken':'tCR4ErLNg5dB1F8bQ1MFHsGpN8TLPZ4S','expiresAt':'2019-12-12T09:15:04.015+03:00'' is being removed 
+2019-12-12 09:47:26.4071 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.RemoveExpiredTokens:77] Trace: Token ''accessToken':'cJtZhUIp1c7HT0zGej1J5Lz0wbh5O0y7','expiresAt':'2019-12-12T09:15:04.093+03:00'' is being removed 
+2019-12-12 09:47:26.4071 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.RemoveExpiredTokens:77] Trace: Token ''accessToken':'0BYiMZuviXDelyMM8CgfYkMHKsc5nCQ0','expiresAt':'2019-12-12T09:15:04.515+03:00'' is being removed 
+2019-12-12 09:47:26.4071 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.RemoveExpiredTokens:77] Trace: Token ''accessToken':'e0HHRHu4p5bY7KFxFKwBJIYFoHOTwp8W','expiresAt':'2019-12-12T09:15:04.609+03:00'' is being removed 
+2019-12-12 09:47:26.4071 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.RemoveExpiredTokens:77] Trace: Token ''accessToken':'6Czlh4urIcqT9oAzcepSGFhMR1SAtQ70','expiresAt':'2019-12-12T09:15:04.843+03:00'' is being removed 
+2019-12-12 09:47:26.4071 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.RemoveExpiredTokens:77] Trace: Token ''accessToken':'w5RuLUGBQ5thR5506OqHzgFrVdJfbjyr','expiresAt':'2019-12-12T09:15:05.406+03:00'' is being removed 
+2019-12-12 09:47:26.4071 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.RemoveExpiredTokens:77] Trace: Token ''accessToken':'UqW4MGe7Od2BMzuMvS4Uap0FpaOhBaag','expiresAt':'2019-12-12T09:15:05.640+03:00'' is being removed 
+2019-12-12 09:47:26.4071 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.RemoveExpiredTokens:77] Trace: Token ''accessToken':'71CbY1eqkitMe4VVjxk9fTHfqGFmrwwo','expiresAt':'2019-12-12T09:15:05.718+03:00'' is being removed 
+2019-12-12 09:47:26.4071 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.RemoveExpiredTokens:77] Trace: Token ''accessToken':'2M3KnJnunDjrwdbk4syDpR0dkXkHlszo','expiresAt':'2019-12-12T09:15:05.797+03:00'' is being removed 
+2019-12-12 09:47:26.4071 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.RemoveExpiredTokens:77] Trace: Token ''accessToken':'m4JI0BiQ9pLSjQiCfUhyyiybLQaFYW8v','expiresAt':'2019-12-12T09:17:06.764+03:00'' is being removed 
+2019-12-12 09:47:26.4071 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.RemoveExpiredTokens:77] Trace: Token ''accessToken':'Ev4rJJktAY406YuKoYcHA0p46iwaaSsd','expiresAt':'2019-12-12T09:17:06.998+03:00'' is being removed 
+2019-12-12 09:47:26.4071 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.CheckToken:55] Info: Проверка токена: gPEnLrsLkooQeyVnVFR0trlD60lbN9Ii 
+2019-12-12 09:47:26.4071 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.CheckToken:59] Info: Проверка успешна: 'accessToken':'gPEnLrsLkooQeyVnVFR0trlD60lbN9Ii','expiresAt':'2019-12-12T10:02:26.391+03:00' 
+2019-12-12 11:53:47.0161 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 11:53:47.0161 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'fQJgJ6zxfHWLCPP8D84L1sjoe0hK5Hxa','expiresAt':'2019-12-12T12:08:47.016+03:00' 
+2019-12-12 11:53:47.0317 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.RemoveExpiredTokens:77] Trace: Token ''accessToken':'gPEnLrsLkooQeyVnVFR0trlD60lbN9Ii','expiresAt':'2019-12-12T10:02:26.391+03:00'' is being removed 
+2019-12-12 11:53:47.0317 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.CheckToken:55] Info: Проверка токена: fQJgJ6zxfHWLCPP8D84L1sjoe0hK5Hxa 
+2019-12-12 11:53:47.0317 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.CheckToken:59] Info: Проверка успешна: 'accessToken':'fQJgJ6zxfHWLCPP8D84L1sjoe0hK5Hxa','expiresAt':'2019-12-12T12:08:47.016+03:00' 
+2019-12-12 11:53:51.8290 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 11:53:51.8446 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'V6kDeoTPGTKcLP0hacOF5xgnhU1IPerN','expiresAt':'2019-12-12T12:08:51.844+03:00' 
+2019-12-12 11:53:51.8446 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.CheckToken:55] Info: Проверка токена: V6kDeoTPGTKcLP0hacOF5xgnhU1IPerN 
+2019-12-12 11:53:51.8446 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.CheckToken:59] Info: Проверка успешна: 'accessToken':'V6kDeoTPGTKcLP0hacOF5xgnhU1IPerN','expiresAt':'2019-12-12T12:08:51.844+03:00' 
+2019-12-12 11:53:52.8759 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 11:53:52.8759 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'Jvq6eCTOef4XX6TF00jTtiVYPwV9nBzc','expiresAt':'2019-12-12T12:08:52.875+03:00' 
+2019-12-12 11:53:52.8916 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.CheckToken:55] Info: Проверка токена: Jvq6eCTOef4XX6TF00jTtiVYPwV9nBzc 
+2019-12-12 11:53:52.8916 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.CheckToken:59] Info: Проверка успешна: 'accessToken':'Jvq6eCTOef4XX6TF00jTtiVYPwV9nBzc','expiresAt':'2019-12-12T12:08:52.875+03:00' 
+2019-12-12 12:00:00.2495 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 12:00:00.2495 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'bxJQZu2O9zaQs9Ga1mIPuOUbPHhigJbT','expiresAt':'2019-12-12T12:15:00.251+03:00' 
+2019-12-12 12:00:01.4465 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 12:00:01.4465 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'fSvan3g5xLKt85fFgu80sZhDSh0HCKhp','expiresAt':'2019-12-12T12:15:01.448+03:00' 
+2019-12-12 12:00:01.5336 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 12:00:01.5356 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'O7kQDgny6CRZ4bTKcR1mBab5li752Otd','expiresAt':'2019-12-12T12:15:01.535+03:00' 
+2019-12-12 12:00:01.9539 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 12:00:01.9539 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'dVU0LF2z7Atf879rEgelIvdnWeeVYhvh','expiresAt':'2019-12-12T12:15:01.955+03:00' 
+2019-12-12 12:00:02.0330 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 12:00:02.0330 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'JnvZ6SzMP2e0hvxdZFqMj8LirgUgaXQQ','expiresAt':'2019-12-12T12:15:02.034+03:00' 
+2019-12-12 12:00:02.1801 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 12:00:02.1801 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'EBLKCZlmhILFHd6ah1vJqZxBRDiPxIls','expiresAt':'2019-12-12T12:15:02.181+03:00' 
+2019-12-12 12:00:02.5735 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 12:00:02.5735 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'bDlVZcRzU3eRm5REauzZb7afDAsyrLpO','expiresAt':'2019-12-12T12:15:02.575+03:00' 
+2019-12-12 12:00:02.9608 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 12:00:02.9608 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'XTe3ra04awomuWPLmUp2JBGTd6HPjS79','expiresAt':'2019-12-12T12:15:02.962+03:00' 
+2019-12-12 12:00:03.3761 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 12:00:03.3761 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'EGuIRNM0uuzfJolhkWCNWn5LDAQlIaK7','expiresAt':'2019-12-12T12:15:03.378+03:00' 
+2019-12-12 12:00:03.4532 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 12:00:03.4532 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'oeYec6uO7p8OCbApKafDFkdQAY5GwbhJ','expiresAt':'2019-12-12T12:15:03.455+03:00' 
+2019-12-12 12:00:03.7114 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 12:00:03.7114 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'arreF64ecnGheg8c0bQhv7s417T30eSV','expiresAt':'2019-12-12T12:15:03.713+03:00' 
+2019-12-12 12:00:03.9586 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 12:00:03.9586 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'7ooLjVZEV0aRTvlTQTFLBzOSznc8c1dy','expiresAt':'2019-12-12T12:15:03.960+03:00' 
+2019-12-12 12:00:04.0387 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 12:00:04.0387 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'LlZqsnsU2BCuWQa6L0cWO6J8QLMwtQbU','expiresAt':'2019-12-12T12:15:04.040+03:00' 
+2019-12-12 12:00:04.4760 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 12:00:04.4760 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'Nc6iMvbdbkJznTwYCWncO6ZFRRPWQvbb','expiresAt':'2019-12-12T12:15:04.478+03:00' 
+2019-12-12 12:00:04.5581 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 12:00:04.5581 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'aiXuKrjPOzvdnJKxPnkMdy5G2rHuW4Cg','expiresAt':'2019-12-12T12:15:04.560+03:00' 
+2019-12-12 12:00:05.0075 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 12:00:05.0075 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'9hP5v1EKmNDPBwR76S7dAExbcHrTaptK','expiresAt':'2019-12-12T12:15:05.009+03:00' 
+2019-12-12 12:00:05.3749 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 12:00:05.3749 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'nFU5uF1NYPaGkg46P9n3xYVujnSeAljx','expiresAt':'2019-12-12T12:15:05.376+03:00' 
+2019-12-12 12:00:05.6110 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 12:00:05.6110 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'TtbwSLDrQj5lehrwCk3R1pMEjZL6nNDm','expiresAt':'2019-12-12T12:15:05.613+03:00' 
+2019-12-12 12:00:05.7101 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 12:00:05.7101 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'fcmq48e3vwdETkG2wVRPiIwdXMCsz643','expiresAt':'2019-12-12T12:15:05.712+03:00' 
+2019-12-12 12:00:05.8101 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 12:00:05.8101 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'WI51u0s46zV5C8lzIJAHvn4Ng9Jhvl3p','expiresAt':'2019-12-12T12:15:05.812+03:00' 
+2019-12-12 12:01:01.2270 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 12:01:01.2270 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'rZhAeE8vdNJimqRPbDagvn7jDhLlgB8K','expiresAt':'2019-12-12T12:16:01.233+03:00' 
+2019-12-12 12:01:01.2440 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.CheckToken:55] Info: Проверка токена: rZhAeE8vdNJimqRPbDagvn7jDhLlgB8K 
+2019-12-12 12:01:01.2440 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.CheckToken:59] Info: Проверка успешна: 'accessToken':'rZhAeE8vdNJimqRPbDagvn7jDhLlgB8K','expiresAt':'2019-12-12T12:16:01.233+03:00' 
+2019-12-12 12:01:01.4196 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 12:01:01.4196 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'vgDcQaK4AEeYTLapiu5iBNt4SyxwtNES','expiresAt':'2019-12-12T12:16:01.421+03:00' 
+2019-12-12 12:01:01.4416 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.CheckToken:55] Info: Проверка токена: vgDcQaK4AEeYTLapiu5iBNt4SyxwtNES 
+2019-12-12 12:01:01.4416 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.CheckToken:59] Info: Проверка успешна: 'accessToken':'vgDcQaK4AEeYTLapiu5iBNt4SyxwtNES','expiresAt':'2019-12-12T12:16:01.421+03:00' 
+2019-12-12 12:02:06.5538 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 12:02:06.5538 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'Fzm6doy1sWWg9ZFr7V2m5P9Ym8ARdOAn','expiresAt':'2019-12-12T12:17:06.556+03:00' 
+2019-12-12 12:02:06.7659 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:32] Info: Запрос на авторизацию: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 12:02:06.7659 [AISCGWLib.AccessTokenAuthFactory+AccessTokenAuth.Authorize:44] Info: Запрос на авторизацию удовлетворён: 'accessToken':'zBIUYTCtv4qfqCvsi5pNKSNppEKUeXNT','expiresAt':'2019-12-12T12:17:06.766+03:00' 

@@ -1,0 +1,4 @@
+2019-12-15 20:10:58,667 - log - INFO - info msg test
+2019-12-15 20:10:58,668 - log - WARNING - warning msg test
+2019-12-15 20:10:58,668 - log - ERROR - error msg test
+2019-12-15 20:10:58,668 - log - CRITICAL - critical msg test

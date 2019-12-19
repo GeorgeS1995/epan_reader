@@ -1,0 +1,484 @@
+2019-12-12 00:00:04.5947 [CommonLib.SBWebUtils.GetDifferenceCountingWebServiceVersion:766] Trace: Request: https://192.168.222.6:8443/DifferenceCountingWebService/version 
+2019-12-12 00:00:04.5947 [CommonLib.SBWebUtils.GetDifferenceCountingWebServiceVersion:767] Trace: Method: GET 
+2019-12-12 00:00:04.5947 [CommonLib.SBWebUtils.GetDifferenceCountingWebServiceVersion:774] Trace: RequestHeaders:
+Accept: text/xml
+Authorization: Basic Njo0NzEx
+ 
+2019-12-12 00:00:04.6416 [CommonLib.SBWebUtils.GetDifferenceCountingWebServiceVersion:782] Trace: Response: 200 OK 
+2019-12-12 00:00:04.6416 [CommonLib.SBWebUtils.GetDifferenceCountingWebServiceVersion:788] Trace: ResponseHeaders:
+Content-Length: 83
+Cache-Control: private
+Content-Type: text/xml
+Date: Wed, 11 Dec 2019 21:00:04 GMT
+Expires: Thu, 01 Jan 1970 03:00:00 MSK
+Server: ----
+ 
+2019-12-12 00:00:04.6416 [CommonLib.SBWebUtils.GetDifferenceCountingWebServiceVersion:790] Trace: ResponseBody:
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><version-no>1.0</version-no> 
+2019-12-12 00:00:04.6416 [CommonLib.SBWebUtils.GetDifferenceCountingWebServiceVersion:836] Debug: DifferenceCountingWebServiceVersion: 1.0 
+2019-12-12 00:00:04.6416 [CommonLib.SBWebUtils.LoadCountingFacilities:4929] Trace: Request: https://192.168.222.6:8443/DifferenceCountingWebService/facilities 
+2019-12-12 00:00:04.6416 [CommonLib.SBWebUtils.LoadCountingFacilities:4930] Trace: Method: GET 
+2019-12-12 00:00:04.6416 [CommonLib.SBWebUtils.LoadCountingFacilities:4937] Trace: RequestHeaders:
+Accept: text/xml
+Authorization: Basic Njo0NzEx
+ 
+2019-12-12 00:00:05.0010 [CommonLib.SBWebUtils.LoadCountingFacilities:4945] Trace: Response: 200 OK 
+2019-12-12 00:00:05.0010 [CommonLib.SBWebUtils.LoadCountingFacilities:4951] Trace: ResponseHeaders:
+Content-Length: 169
+Cache-Control: private
+Content-Type: text/xml
+Date: Wed, 11 Dec 2019 21:00:04 GMT
+Expires: Thu, 01 Jan 1970 03:00:00 MSK
+Server: ----
+ 
+2019-12-12 00:00:05.0010 [CommonLib.SBWebUtils.LoadCountingFacilities:4953] Trace: ResponseBody:
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><facilities><facility><facilityid>5001</facilityid><facilityname>MS PARKING</facilityname></facility></facilities> 
+2019-12-12 00:00:05.0166 [CommonLib.SBWebUtils.LoadCounters:5138] Trace: Request: https://192.168.222.6:8443/DifferenceCountingWebService/counters?facilityid=5001 
+2019-12-12 00:00:05.0166 [CommonLib.SBWebUtils.LoadCounters:5139] Trace: Method: GET 
+2019-12-12 00:00:05.0166 [CommonLib.SBWebUtils.LoadCounters:5146] Trace: RequestHeaders:
+Accept: text/xml
+Authorization: Basic Njo0NzEx
+ 
+2019-12-12 00:00:05.4230 [CommonLib.SBWebUtils.LoadCounters:5154] Trace: Response: 200 OK 
+2019-12-12 00:00:05.4230 [CommonLib.SBWebUtils.LoadCounters:5160] Trace: ResponseHeaders:
+Content-Length: 5683
+Cache-Control: private
+Content-Type: text/xml
+Date: Wed, 11 Dec 2019 21:00:04 GMT
+Expires: Thu, 01 Jan 1970 03:00:00 MSK
+Server: ----
+ 
+2019-12-12 00:00:05.4230 [CommonLib.SBWebUtils.LoadCounters:5162] Trace: ResponseBody:
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><counters><facility-no>5001</facility-no><standard-counter><id>0</id><type>0</type><text>Pre-booked</text><free>0</free><present>0</present><percent>100</percent><max>0</max><status>Occupied</status><status-value>1</status-value></standard-counter><standard-counter><id>1</id><type>0</type><text>Not reserved</text><free>82</free><present>548</present><percent>86</percent><max>630</max><status>Free</status><status-value>0</status-value></standard-counter><standard-counter><id>2</id><type>0</type><text>Reserved</text><free>70</free><present>0</present><percent>0</percent><max>70</max><status>Free</status><status-value>0</status-value></standard-counter><standard-counter><id>3</id><type>0</type><text>Total</text><free>152</free><present>548</present><percent>78</percent><max>700</max><status>Free</status><status-value>0</status-value></standard-counter><level-counter><id>11</id><type>1</type><text>Floor 1</text><free>0</free><present>0</present><percent>100</percent><max>0</max><status>Occupied</status><status-value>1</status-value></level-counter><level-counter><id>12</id><type>1</type><text>Floor 2</text><free>0</free><present>0</present><percent>100</percent><max>0</max><status>Occupied</status><status-value>1</status-value></level-counter><level-counter><id>13</id><type>1</type><text>Floor 3</text><free>0</free><present>0</present><percent>100</percent><max>0</max><status>Occupied</status><status-value>1</status-value></level-counter><level-counter><id>14</id><type>1</type><text>Floor 4</text><free>0</free><present>0</present><percent>100</percent><max>0</max><status>Occupied</status><status-value>1</status-value></level-counter><sum-counter><id>101</id><type>2</type><text>Shortterm Parker in</text><resetable>9488</resetable><unresetable>9488</unresetable></sum-counter><sum-counter><id>102</id><type>2</type><text>Season Card in</text><resetable>15917</resetable><unresetable>15917</unresetable></sum-counter><sum-counter><id>103</id><type>2</type><text>Congress Card in</text><resetable>0</resetable><unresetable>0</unresetable></sum-counter><sum-counter><id>104</id><type>2</type><text>Parking Cheque in</text><resetable>502</resetable><unresetable>502</unresetable></sum-counter><sum-counter><id>105</id><type>2</type><text>Congress Cheque in</text><resetable>188</resetable><unresetable>188</unresetable></sum-counter><sum-counter><id>106</id><type>2</type><text>Value Card in</text><resetable>0</resetable><unresetable>0</unresetable></sum-counter><sum-counter><id>108</id><type>2</type><text>Operator Card in</text><resetable>0</resetable><unresetable>0</unresetable></sum-counter><sum-counter><id>109</id><type>2</type><text>Service Card in</text><resetable>0</resetable><unresetable>0</unresetable></sum-counter><sum-counter><id>110</id><type>2</type><text>Entry reserved</text><resetable>13</resetable><unresetable>13</unresetable></sum-counter><sum-counter><id>120</id><type>2</type><text>Entry not  reserv.</text><resetable>26082</resetable><unresetable>26082</unresetable></sum-counter><sum-counter><id>130</id><type>2</type><text>Man. open in</text><resetable>22168</resetable><unresetable>22168</unresetable></sum-counter><sum-counter><id>140</id><type>2</type><text>Locked in</text><resetable>148409</resetable><unresetable>148409</unresetable></sum-counter><sum-counter><id>150</id><type>2</type><text>Brok.Barrier in</text><resetable>3</resetable><unresetable>3</unresetable></sum-counter><sum-counter><id>190</id><type>2</type><text>Open Entry</text><resetable>0</resetable><unresetable>0</unresetable></sum-counter><sum-counter><id>201</id><type>2</type><text>Shortterm Parker out</text><resetable>8978</resetable><unresetable>8978</unresetable></sum-counter><sum-counter><id>202</id><type>2</type><text>Season Card out</text><resetable>15401</resetable><unresetable>15401</unresetable></sum-counter><sum-counter><id>203</id><type>2</type><text>Congress Card out</text><resetable>0</resetable><unresetable>0</unresetable></sum-counter><sum-counter><id>204</id><type>2</type><text>Parking Cheque out</text><resetable>477</resetable><unresetable>477</unresetable></sum-counter><sum-counter><id>205</id><type>2</type><text>Season Cheque out</text><resetable>176</resetable><unresetable>176</unresetable></sum-counter><sum-counter><id>206</id><type>2</type><text>Value Card out</text><resetable>0</resetable><unresetable>0</unresetable></sum-counter><sum-counter><id>208</id><type>2</type><text>Operator Card out</text><resetable>0</resetable><unresetable>0</unresetable></sum-counter><sum-counter><id>209</id><type>2</type><text>Service Card out</text><resetable>0</resetable><unresetable>0</unresetable></sum-counter><sum-counter><id>210</id><type>2</type><text>Exit reserved</text><resetable>37</resetable><unresetable>37</unresetable></sum-counter><sum-counter><id>220</id><type>2</type><text>Exit not reserved</text><resetable>19911</resetable><unresetable>19911</unresetable></sum-counter><sum-counter><id>230</id><type>2</type><text>Man. open out</text><resetable>410</resetable><unresetable>410</unresetable></sum-counter><sum-counter><id>240</id><type>2</type><text>Locked out</text><resetable>12058</resetable><unresetable>12058</unresetable></sum-counter><sum-counter><id>250</id><type>2</type><text>Brok. Barrier out</text><resetable>1</resetable><unresetable>1</unresetable></sum-counter><sum-counter><id>280</id><type>2</type><text>Pass. in grace time</text><resetable>5084</resetable><unresetable>5084</unresetable></sum-counter><sum-counter><id>290</id><type>2</type><text>Open exit</text><resetable>0</resetable><unresetable>0</unresetable></sum-counter></counters> 
+2019-12-12 00:00:05.4855 [CommonLib.SBWebUtils.GetDifferenceCountingWebServiceVersion:766] Trace: Request: https://192.168.222.6:8443/DifferenceCountingWebService/version 
+2019-12-12 00:00:05.4855 [CommonLib.SBWebUtils.GetDifferenceCountingWebServiceVersion:767] Trace: Method: GET 
+2019-12-12 00:00:05.4855 [CommonLib.SBWebUtils.GetDifferenceCountingWebServiceVersion:774] Trace: RequestHeaders:
+Accept: text/xml
+Authorization: Basic Njo0NzEx
+ 
+2019-12-12 00:00:05.5167 [CommonLib.SBWebUtils.GetDifferenceCountingWebServiceVersion:782] Trace: Response: 200 OK 
+2019-12-12 00:00:05.5167 [CommonLib.SBWebUtils.GetDifferenceCountingWebServiceVersion:788] Trace: ResponseHeaders:
+Content-Length: 83
+Cache-Control: private
+Content-Type: text/xml
+Date: Wed, 11 Dec 2019 21:00:04 GMT
+Expires: Thu, 01 Jan 1970 03:00:00 MSK
+Server: ----
+ 
+2019-12-12 00:00:05.5167 [CommonLib.SBWebUtils.GetDifferenceCountingWebServiceVersion:790] Trace: ResponseBody:
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><version-no>1.0</version-no> 
+2019-12-12 00:00:05.5167 [CommonLib.SBWebUtils.GetDifferenceCountingWebServiceVersion:836] Debug: DifferenceCountingWebServiceVersion: 1.0 
+2019-12-12 00:00:05.5167 [CommonLib.SBWebUtils.LoadCountingFacilities:4929] Trace: Request: https://192.168.222.6:8443/DifferenceCountingWebService/facilities 
+2019-12-12 00:00:05.5167 [CommonLib.SBWebUtils.LoadCountingFacilities:4930] Trace: Method: GET 
+2019-12-12 00:00:05.5167 [CommonLib.SBWebUtils.LoadCountingFacilities:4937] Trace: RequestHeaders:
+Accept: text/xml
+Authorization: Basic Njo0NzEx
+ 
+2019-12-12 00:00:05.8605 [CommonLib.SBWebUtils.LoadCountingFacilities:4945] Trace: Response: 200 OK 
+2019-12-12 00:00:05.8605 [CommonLib.SBWebUtils.LoadCountingFacilities:4951] Trace: ResponseHeaders:
+Content-Length: 169
+Cache-Control: private
+Content-Type: text/xml
+Date: Wed, 11 Dec 2019 21:00:05 GMT
+Expires: Thu, 01 Jan 1970 03:00:00 MSK
+Server: ----
+ 
+2019-12-12 00:00:05.8605 [CommonLib.SBWebUtils.LoadCountingFacilities:4953] Trace: ResponseBody:
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><facilities><facility><facilityid>5001</facilityid><facilityname>MS PARKING</facilityname></facility></facilities> 
+2019-12-12 00:00:05.8605 [CommonLib.SBWebUtils.LoadCounters:5138] Trace: Request: https://192.168.222.6:8443/DifferenceCountingWebService/counters?facilityid=5001 
+2019-12-12 00:00:05.8605 [CommonLib.SBWebUtils.LoadCounters:5139] Trace: Method: GET 
+2019-12-12 00:00:05.8605 [CommonLib.SBWebUtils.LoadCounters:5146] Trace: RequestHeaders:
+Accept: text/xml
+Authorization: Basic Njo0NzEx
+ 
+2019-12-12 00:00:06.2511 [CommonLib.SBWebUtils.LoadCounters:5154] Trace: Response: 200 OK 
+2019-12-12 00:00:06.2668 [CommonLib.SBWebUtils.LoadCounters:5160] Trace: ResponseHeaders:
+Content-Length: 5683
+Cache-Control: private
+Content-Type: text/xml
+Date: Wed, 11 Dec 2019 21:00:05 GMT
+Expires: Thu, 01 Jan 1970 03:00:00 MSK
+Server: ----
+ 
+2019-12-12 00:00:06.2668 [CommonLib.SBWebUtils.LoadCounters:5162] Trace: ResponseBody:
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><counters><facility-no>5001</facility-no><standard-counter><id>0</id><type>0</type><text>Pre-booked</text><free>0</free><present>0</present><percent>100</percent><max>0</max><status>Occupied</status><status-value>1</status-value></standard-counter><standard-counter><id>1</id><type>0</type><text>Not reserved</text><free>82</free><present>548</present><percent>86</percent><max>630</max><status>Free</status><status-value>0</status-value></standard-counter><standard-counter><id>2</id><type>0</type><text>Reserved</text><free>70</free><present>0</present><percent>0</percent><max>70</max><status>Free</status><status-value>0</status-value></standard-counter><standard-counter><id>3</id><type>0</type><text>Total</text><free>152</free><present>548</present><percent>78</percent><max>700</max><status>Free</status><status-value>0</status-value></standard-counter><level-counter><id>11</id><type>1</type><text>Floor 1</text><free>0</free><present>0</present><percent>100</percent><max>0</max><status>Occupied</status><status-value>1</status-value></level-counter><level-counter><id>12</id><type>1</type><text>Floor 2</text><free>0</free><present>0</present><percent>100</percent><max>0</max><status>Occupied</status><status-value>1</status-value></level-counter><level-counter><id>13</id><type>1</type><text>Floor 3</text><free>0</free><present>0</present><percent>100</percent><max>0</max><status>Occupied</status><status-value>1</status-value></level-counter><level-counter><id>14</id><type>1</type><text>Floor 4</text><free>0</free><present>0</present><percent>100</percent><max>0</max><status>Occupied</status><status-value>1</status-value></level-counter><sum-counter><id>101</id><type>2</type><text>Shortterm Parker in</text><resetable>9488</resetable><unresetable>9488</unresetable></sum-counter><sum-counter><id>102</id><type>2</type><text>Season Card in</text><resetable>15917</resetable><unresetable>15917</unresetable></sum-counter><sum-counter><id>103</id><type>2</type><text>Congress Card in</text><resetable>0</resetable><unresetable>0</unresetable></sum-counter><sum-counter><id>104</id><type>2</type><text>Parking Cheque in</text><resetable>502</resetable><unresetable>502</unresetable></sum-counter><sum-counter><id>105</id><type>2</type><text>Congress Cheque in</text><resetable>188</resetable><unresetable>188</unresetable></sum-counter><sum-counter><id>106</id><type>2</type><text>Value Card in</text><resetable>0</resetable><unresetable>0</unresetable></sum-counter><sum-counter><id>108</id><type>2</type><text>Operator Card in</text><resetable>0</resetable><unresetable>0</unresetable></sum-counter><sum-counter><id>109</id><type>2</type><text>Service Card in</text><resetable>0</resetable><unresetable>0</unresetable></sum-counter><sum-counter><id>110</id><type>2</type><text>Entry reserved</text><resetable>13</resetable><unresetable>13</unresetable></sum-counter><sum-counter><id>120</id><type>2</type><text>Entry not  reserv.</text><resetable>26082</resetable><unresetable>26082</unresetable></sum-counter><sum-counter><id>130</id><type>2</type><text>Man. open in</text><resetable>22168</resetable><unresetable>22168</unresetable></sum-counter><sum-counter><id>140</id><type>2</type><text>Locked in</text><resetable>148409</resetable><unresetable>148409</unresetable></sum-counter><sum-counter><id>150</id><type>2</type><text>Brok.Barrier in</text><resetable>3</resetable><unresetable>3</unresetable></sum-counter><sum-counter><id>190</id><type>2</type><text>Open Entry</text><resetable>0</resetable><unresetable>0</unresetable></sum-counter><sum-counter><id>201</id><type>2</type><text>Shortterm Parker out</text><resetable>8978</resetable><unresetable>8978</unresetable></sum-counter><sum-counter><id>202</id><type>2</type><text>Season Card out</text><resetable>15401</resetable><unresetable>15401</unresetable></sum-counter><sum-counter><id>203</id><type>2</type><text>Congress Card out</text><resetable>0</resetable><unresetable>0</unresetable></sum-counter><sum-counter><id>204</id><type>2</type><text>Parking Cheque out</text><resetable>477</resetable><unresetable>477</unresetable></sum-counter><sum-counter><id>205</id><type>2</type><text>Season Cheque out</text><resetable>176</resetable><unresetable>176</unresetable></sum-counter><sum-counter><id>206</id><type>2</type><text>Value Card out</text><resetable>0</resetable><unresetable>0</unresetable></sum-counter><sum-counter><id>208</id><type>2</type><text>Operator Card out</text><resetable>0</resetable><unresetable>0</unresetable></sum-counter><sum-counter><id>209</id><type>2</type><text>Service Card out</text><resetable>0</resetable><unresetable>0</unresetable></sum-counter><sum-counter><id>210</id><type>2</type><text>Exit reserved</text><resetable>37</resetable><unresetable>37</unresetable></sum-counter><sum-counter><id>220</id><type>2</type><text>Exit not reserved</text><resetable>19911</resetable><unresetable>19911</unresetable></sum-counter><sum-counter><id>230</id><type>2</type><text>Man. open out</text><resetable>410</resetable><unresetable>410</unresetable></sum-counter><sum-counter><id>240</id><type>2</type><text>Locked out</text><resetable>12058</resetable><unresetable>12058</unresetable></sum-counter><sum-counter><id>250</id><type>2</type><text>Brok. Barrier out</text><resetable>1</resetable><unresetable>1</unresetable></sum-counter><sum-counter><id>280</id><type>2</type><text>Pass. in grace time</text><resetable>5084</resetable><unresetable>5084</unresetable></sum-counter><sum-counter><id>290</id><type>2</type><text>Open exit</text><resetable>0</resetable><unresetable>0</unresetable></sum-counter></counters> 
+2019-12-12 00:34:27.9086 [CommonLib.SBWebUtils.GetDifferenceCountingWebServiceVersion:766] Trace: Request: https://192.168.222.6:8443/DifferenceCountingWebService/version 
+2019-12-12 00:34:27.9086 [CommonLib.SBWebUtils.GetDifferenceCountingWebServiceVersion:767] Trace: Method: GET 
+2019-12-12 00:34:27.9086 [CommonLib.SBWebUtils.GetDifferenceCountingWebServiceVersion:774] Trace: RequestHeaders:
+Accept: text/xml
+Authorization: Basic Njo0NzEx
+ 
+2019-12-12 00:34:27.9711 [CommonLib.SBWebUtils.GetDifferenceCountingWebServiceVersion:782] Trace: Response: 200 OK 
+2019-12-12 00:34:27.9711 [CommonLib.SBWebUtils.GetDifferenceCountingWebServiceVersion:788] Trace: ResponseHeaders:
+Content-Length: 83
+Cache-Control: private
+Content-Type: text/xml
+Date: Wed, 11 Dec 2019 21:34:27 GMT
+Expires: Thu, 01 Jan 1970 03:00:00 MSK
+Server: ----
+ 
+2019-12-12 00:34:27.9711 [CommonLib.SBWebUtils.GetDifferenceCountingWebServiceVersion:790] Trace: ResponseBody:
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><version-no>1.0</version-no> 
+2019-12-12 00:34:27.9711 [CommonLib.SBWebUtils.GetDifferenceCountingWebServiceVersion:836] Debug: DifferenceCountingWebServiceVersion: 1.0 
+2019-12-12 00:34:27.9711 [CommonLib.SBWebUtils.LoadCountingFacilities:4929] Trace: Request: https://192.168.222.6:8443/DifferenceCountingWebService/facilities 
+2019-12-12 00:34:27.9711 [CommonLib.SBWebUtils.LoadCountingFacilities:4930] Trace: Method: GET 
+2019-12-12 00:34:27.9711 [CommonLib.SBWebUtils.LoadCountingFacilities:4937] Trace: RequestHeaders:
+Accept: text/xml
+Authorization: Basic Njo0NzEx
+ 
+2019-12-12 00:34:28.3461 [CommonLib.SBWebUtils.LoadCountingFacilities:4945] Trace: Response: 200 OK 
+2019-12-12 00:34:28.3461 [CommonLib.SBWebUtils.LoadCountingFacilities:4951] Trace: ResponseHeaders:
+Content-Length: 169
+Cache-Control: private
+Content-Type: text/xml
+Date: Wed, 11 Dec 2019 21:34:27 GMT
+Expires: Thu, 01 Jan 1970 03:00:00 MSK
+Server: ----
+ 
+2019-12-12 00:34:28.3461 [CommonLib.SBWebUtils.LoadCountingFacilities:4953] Trace: ResponseBody:
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><facilities><facility><facilityid>5001</facilityid><facilityname>MS PARKING</facilityname></facility></facilities> 
+2019-12-12 00:34:28.3461 [CommonLib.SBWebUtils.LoadCounters:5138] Trace: Request: https://192.168.222.6:8443/DifferenceCountingWebService/counters?facilityid=5001 
+2019-12-12 00:34:28.3461 [CommonLib.SBWebUtils.LoadCounters:5139] Trace: Method: GET 
+2019-12-12 00:34:28.3461 [CommonLib.SBWebUtils.LoadCounters:5146] Trace: RequestHeaders:
+Accept: text/xml
+Authorization: Basic Njo0NzEx
+ 
+2019-12-12 00:34:28.7680 [CommonLib.SBWebUtils.LoadCounters:5154] Trace: Response: 200 OK 
+2019-12-12 00:34:28.7680 [CommonLib.SBWebUtils.LoadCounters:5160] Trace: ResponseHeaders:
+Content-Length: 5683
+Cache-Control: private
+Content-Type: text/xml
+Date: Wed, 11 Dec 2019 21:34:27 GMT
+Expires: Thu, 01 Jan 1970 03:00:00 MSK
+Server: ----
+ 
+2019-12-12 00:34:28.7680 [CommonLib.SBWebUtils.LoadCounters:5162] Trace: ResponseBody:
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><counters><facility-no>5001</facility-no><standard-counter><id>0</id><type>0</type><text>Pre-booked</text><free>0</free><present>0</present><percent>100</percent><max>0</max><status>Occupied</status><status-value>1</status-value></standard-counter><standard-counter><id>1</id><type>0</type><text>Not reserved</text><free>82</free><present>548</present><percent>86</percent><max>630</max><status>Free</status><status-value>0</status-value></standard-counter><standard-counter><id>2</id><type>0</type><text>Reserved</text><free>70</free><present>0</present><percent>0</percent><max>70</max><status>Free</status><status-value>0</status-value></standard-counter><standard-counter><id>3</id><type>0</type><text>Total</text><free>152</free><present>548</present><percent>78</percent><max>700</max><status>Free</status><status-value>0</status-value></standard-counter><level-counter><id>11</id><type>1</type><text>Floor 1</text><free>0</free><present>0</present><percent>100</percent><max>0</max><status>Occupied</status><status-value>1</status-value></level-counter><level-counter><id>12</id><type>1</type><text>Floor 2</text><free>0</free><present>0</present><percent>100</percent><max>0</max><status>Occupied</status><status-value>1</status-value></level-counter><level-counter><id>13</id><type>1</type><text>Floor 3</text><free>0</free><present>0</present><percent>100</percent><max>0</max><status>Occupied</status><status-value>1</status-value></level-counter><level-counter><id>14</id><type>1</type><text>Floor 4</text><free>0</free><present>0</present><percent>100</percent><max>0</max><status>Occupied</status><status-value>1</status-value></level-counter><sum-counter><id>101</id><type>2</type><text>Shortterm Parker in</text><resetable>9488</resetable><unresetable>9488</unresetable></sum-counter><sum-counter><id>102</id><type>2</type><text>Season Card in</text><resetable>15917</resetable><unresetable>15917</unresetable></sum-counter><sum-counter><id>103</id><type>2</type><text>Congress Card in</text><resetable>0</resetable><unresetable>0</unresetable></sum-counter><sum-counter><id>104</id><type>2</type><text>Parking Cheque in</text><resetable>502</resetable><unresetable>502</unresetable></sum-counter><sum-counter><id>105</id><type>2</type><text>Congress Cheque in</text><resetable>188</resetable><unresetable>188</unresetable></sum-counter><sum-counter><id>106</id><type>2</type><text>Value Card in</text><resetable>0</resetable><unresetable>0</unresetable></sum-counter><sum-counter><id>108</id><type>2</type><text>Operator Card in</text><resetable>0</resetable><unresetable>0</unresetable></sum-counter><sum-counter><id>109</id><type>2</type><text>Service Card in</text><resetable>0</resetable><unresetable>0</unresetable></sum-counter><sum-counter><id>110</id><type>2</type><text>Entry reserved</text><resetable>13</resetable><unresetable>13</unresetable></sum-counter><sum-counter><id>120</id><type>2</type><text>Entry not  reserv.</text><resetable>26082</resetable><unresetable>26082</unresetable></sum-counter><sum-counter><id>130</id><type>2</type><text>Man. open in</text><resetable>22168</resetable><unresetable>22168</unresetable></sum-counter><sum-counter><id>140</id><type>2</type><text>Locked in</text><resetable>148409</resetable><unresetable>148409</unresetable></sum-counter><sum-counter><id>150</id><type>2</type><text>Brok.Barrier in</text><resetable>3</resetable><unresetable>3</unresetable></sum-counter><sum-counter><id>190</id><type>2</type><text>Open Entry</text><resetable>0</resetable><unresetable>0</unresetable></sum-counter><sum-counter><id>201</id><type>2</type><text>Shortterm Parker out</text><resetable>8978</resetable><unresetable>8978</unresetable></sum-counter><sum-counter><id>202</id><type>2</type><text>Season Card out</text><resetable>15401</resetable><unresetable>15401</unresetable></sum-counter><sum-counter><id>203</id><type>2</type><text>Congress Card out</text><resetable>0</resetable><unresetable>0</unresetable></sum-counter><sum-counter><id>204</id><type>2</type><text>Parking Cheque out</text><resetable>477</resetable><unresetable>477</unresetable></sum-counter><sum-counter><id>205</id><type>2</type><text>Season Cheque out</text><resetable>176</resetable><unresetable>176</unresetable></sum-counter><sum-counter><id>206</id><type>2</type><text>Value Card out</text><resetable>0</resetable><unresetable>0</unresetable></sum-counter><sum-counter><id>208</id><type>2</type><text>Operator Card out</text><resetable>0</resetable><unresetable>0</unresetable></sum-counter><sum-counter><id>209</id><type>2</type><text>Service Card out</text><resetable>0</resetable><unresetable>0</unresetable></sum-counter><sum-counter><id>210</id><type>2</type><text>Exit reserved</text><resetable>37</resetable><unresetable>37</unresetable></sum-counter><sum-counter><id>220</id><type>2</type><text>Exit not reserved</text><resetable>19911</resetable><unresetable>19911</unresetable></sum-counter><sum-counter><id>230</id><type>2</type><text>Man. open out</text><resetable>410</resetable><unresetable>410</unresetable></sum-counter><sum-counter><id>240</id><type>2</type><text>Locked out</text><resetable>12058</resetable><unresetable>12058</unresetable></sum-counter><sum-counter><id>250</id><type>2</type><text>Brok. Barrier out</text><resetable>1</resetable><unresetable>1</unresetable></sum-counter><sum-counter><id>280</id><type>2</type><text>Pass. in grace time</text><resetable>5084</resetable><unresetable>5084</unresetable></sum-counter><sum-counter><id>290</id><type>2</type><text>Open exit</text><resetable>0</resetable><unresetable>0</unresetable></sum-counter></counters> 
+2019-12-12 07:39:22.0728 [CommonLib.SBWebUtils.GetDifferenceCountingWebServiceVersion:766] Trace: Request: https://192.168.222.6:8443/DifferenceCountingWebService/version 
+2019-12-12 07:39:22.0728 [CommonLib.SBWebUtils.GetDifferenceCountingWebServiceVersion:767] Trace: Method: GET 
+2019-12-12 07:39:22.0728 [CommonLib.SBWebUtils.GetDifferenceCountingWebServiceVersion:774] Trace: RequestHeaders:
+Accept: text/xml
+Authorization: Basic Njo0NzEx
+ 
+2019-12-12 07:39:22.1197 [CommonLib.SBWebUtils.GetDifferenceCountingWebServiceVersion:782] Trace: Response: 200 OK 
+2019-12-12 07:39:22.1197 [CommonLib.SBWebUtils.GetDifferenceCountingWebServiceVersion:788] Trace: ResponseHeaders:
+Content-Length: 83
+Cache-Control: private
+Content-Type: text/xml
+Date: Thu, 12 Dec 2019 04:39:22 GMT
+Expires: Thu, 01 Jan 1970 03:00:00 MSK
+Server: ----
+ 
+2019-12-12 07:39:22.1197 [CommonLib.SBWebUtils.GetDifferenceCountingWebServiceVersion:790] Trace: ResponseBody:
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><version-no>1.0</version-no> 
+2019-12-12 07:39:22.1197 [CommonLib.SBWebUtils.GetDifferenceCountingWebServiceVersion:836] Debug: DifferenceCountingWebServiceVersion: 1.0 
+2019-12-12 07:39:22.1197 [CommonLib.SBWebUtils.LoadCountingFacilities:4929] Trace: Request: https://192.168.222.6:8443/DifferenceCountingWebService/facilities 
+2019-12-12 07:39:22.1197 [CommonLib.SBWebUtils.LoadCountingFacilities:4930] Trace: Method: GET 
+2019-12-12 07:39:22.1197 [CommonLib.SBWebUtils.LoadCountingFacilities:4937] Trace: RequestHeaders:
+Accept: text/xml
+Authorization: Basic Njo0NzEx
+ 
+2019-12-12 07:39:22.4947 [CommonLib.SBWebUtils.LoadCountingFacilities:4945] Trace: Response: 200 OK 
+2019-12-12 07:39:22.5104 [CommonLib.SBWebUtils.LoadCountingFacilities:4951] Trace: ResponseHeaders:
+Content-Length: 169
+Cache-Control: private
+Content-Type: text/xml
+Date: Thu, 12 Dec 2019 04:39:22 GMT
+Expires: Thu, 01 Jan 1970 03:00:00 MSK
+Server: ----
+ 
+2019-12-12 07:39:22.5104 [CommonLib.SBWebUtils.LoadCountingFacilities:4953] Trace: ResponseBody:
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><facilities><facility><facilityid>5001</facilityid><facilityname>MS PARKING</facilityname></facility></facilities> 
+2019-12-12 07:39:22.5104 [CommonLib.SBWebUtils.LoadCounters:5138] Trace: Request: https://192.168.222.6:8443/DifferenceCountingWebService/counters?facilityid=5001 
+2019-12-12 07:39:22.5104 [CommonLib.SBWebUtils.LoadCounters:5139] Trace: Method: GET 
+2019-12-12 07:39:22.5104 [CommonLib.SBWebUtils.LoadCounters:5146] Trace: RequestHeaders:
+Accept: text/xml
+Authorization: Basic Njo0NzEx
+ 
+2019-12-12 07:39:22.9166 [CommonLib.SBWebUtils.LoadCounters:5154] Trace: Response: 200 OK 
+2019-12-12 07:39:22.9166 [CommonLib.SBWebUtils.LoadCounters:5160] Trace: ResponseHeaders:
+Content-Length: 5683
+Cache-Control: private
+Content-Type: text/xml
+Date: Thu, 12 Dec 2019 04:39:22 GMT
+Expires: Thu, 01 Jan 1970 03:00:00 MSK
+Server: ----
+ 
+2019-12-12 07:39:22.9166 [CommonLib.SBWebUtils.LoadCounters:5162] Trace: ResponseBody:
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><counters><facility-no>5001</facility-no><standard-counter><id>0</id><type>0</type><text>Pre-booked</text><free>0</free><present>0</present><percent>100</percent><max>0</max><status>Occupied</status><status-value>1</status-value></standard-counter><standard-counter><id>1</id><type>0</type><text>Not reserved</text><free>60</free><present>570</present><percent>90</percent><max>630</max><status>Free</status><status-value>0</status-value></standard-counter><standard-counter><id>2</id><type>0</type><text>Reserved</text><free>70</free><present>0</present><percent>0</percent><max>70</max><status>Free</status><status-value>0</status-value></standard-counter><standard-counter><id>3</id><type>0</type><text>Total</text><free>130</free><present>570</present><percent>81</percent><max>700</max><status>Free</status><status-value>0</status-value></standard-counter><level-counter><id>11</id><type>1</type><text>Floor 1</text><free>0</free><present>0</present><percent>100</percent><max>0</max><status>Occupied</status><status-value>1</status-value></level-counter><level-counter><id>12</id><type>1</type><text>Floor 2</text><free>0</free><present>0</present><percent>100</percent><max>0</max><status>Occupied</status><status-value>1</status-value></level-counter><level-counter><id>13</id><type>1</type><text>Floor 3</text><free>0</free><present>0</present><percent>100</percent><max>0</max><status>Occupied</status><status-value>1</status-value></level-counter><level-counter><id>14</id><type>1</type><text>Floor 4</text><free>0</free><present>0</present><percent>100</percent><max>0</max><status>Occupied</status><status-value>1</status-value></level-counter><sum-counter><id>101</id><type>2</type><text>Shortterm Parker in</text><resetable>9489</resetable><unresetable>9489</unresetable></sum-counter><sum-counter><id>102</id><type>2</type><text>Season Card in</text><resetable>15937</resetable><unresetable>15937</unresetable></sum-counter><sum-counter><id>103</id><type>2</type><text>Congress Card in</text><resetable>0</resetable><unresetable>0</unresetable></sum-counter><sum-counter><id>104</id><type>2</type><text>Parking Cheque in</text><resetable>502</resetable><unresetable>502</unresetable></sum-counter><sum-counter><id>105</id><type>2</type><text>Congress Cheque in</text><resetable>188</resetable><unresetable>188</unresetable></sum-counter><sum-counter><id>106</id><type>2</type><text>Value Card in</text><resetable>0</resetable><unresetable>0</unresetable></sum-counter><sum-counter><id>108</id><type>2</type><text>Operator Card in</text><resetable>0</resetable><unresetable>0</unresetable></sum-counter><sum-counter><id>109</id><type>2</type><text>Service Card in</text><resetable>0</resetable><unresetable>0</unresetable></sum-counter><sum-counter><id>110</id><type>2</type><text>Entry reserved</text><resetable>13</resetable><unresetable>13</unresetable></sum-counter><sum-counter><id>120</id><type>2</type><text>Entry not  reserv.</text><resetable>26103</resetable><unresetable>26103</unresetable></sum-counter><sum-counter><id>130</id><type>2</type><text>Man. open in</text><resetable>22170</resetable><unresetable>22170</unresetable></sum-counter><sum-counter><id>140</id><type>2</type><text>Locked in</text><resetable>148409</resetable><unresetable>148409</unresetable></sum-counter><sum-counter><id>150</id><type>2</type><text>Brok.Barrier in</text><resetable>3</resetable><unresetable>3</unresetable></sum-counter><sum-counter><id>190</id><type>2</type><text>Open Entry</text><resetable>0</resetable><unresetable>0</unresetable></sum-counter><sum-counter><id>201</id><type>2</type><text>Shortterm Parker out</text><resetable>8978</resetable><unresetable>8978</unresetable></sum-counter><sum-counter><id>202</id><type>2</type><text>Season Card out</text><resetable>15402</resetable><unresetable>15402</unresetable></sum-counter><sum-counter><id>203</id><type>2</type><text>Congress Card out</text><resetable>0</resetable><unresetable>0</unresetable></sum-counter><sum-counter><id>204</id><type>2</type><text>Parking Cheque out</text><resetable>477</resetable><unresetable>477</unresetable></sum-counter><sum-counter><id>205</id><type>2</type><text>Season Cheque out</text><resetable>176</resetable><unresetable>176</unresetable></sum-counter><sum-counter><id>206</id><type>2</type><text>Value Card out</text><resetable>0</resetable><unresetable>0</unresetable></sum-counter><sum-counter><id>208</id><type>2</type><text>Operator Card out</text><resetable>0</resetable><unresetable>0</unresetable></sum-counter><sum-counter><id>209</id><type>2</type><text>Service Card out</text><resetable>0</resetable><unresetable>0</unresetable></sum-counter><sum-counter><id>210</id><type>2</type><text>Exit reserved</text><resetable>37</resetable><unresetable>37</unresetable></sum-counter><sum-counter><id>220</id><type>2</type><text>Exit not reserved</text><resetable>19912</resetable><unresetable>19912</unresetable></sum-counter><sum-counter><id>230</id><type>2</type><text>Man. open out</text><resetable>410</resetable><unresetable>410</unresetable></sum-counter><sum-counter><id>240</id><type>2</type><text>Locked out</text><resetable>12058</resetable><unresetable>12058</unresetable></sum-counter><sum-counter><id>250</id><type>2</type><text>Brok. Barrier out</text><resetable>1</resetable><unresetable>1</unresetable></sum-counter><sum-counter><id>280</id><type>2</type><text>Pass. in grace time</text><resetable>5084</resetable><unresetable>5084</unresetable></sum-counter><sum-counter><id>290</id><type>2</type><text>Open exit</text><resetable>0</resetable><unresetable>0</unresetable></sum-counter></counters> 
+2019-12-12 09:47:27.5010 [CommonLib.SBWebUtils.GetDifferenceCountingWebServiceVersion:766] Trace: Request: https://192.168.222.6:8443/DifferenceCountingWebService/version 
+2019-12-12 09:47:27.5010 [CommonLib.SBWebUtils.GetDifferenceCountingWebServiceVersion:767] Trace: Method: GET 
+2019-12-12 09:47:27.5166 [CommonLib.SBWebUtils.GetDifferenceCountingWebServiceVersion:774] Trace: RequestHeaders:
+Accept: text/xml
+Authorization: Basic Njo0NzEx
+ 
+2019-12-12 09:47:27.6416 [CommonLib.SBWebUtils.GetDifferenceCountingWebServiceVersion:782] Trace: Response: 200 OK 
+2019-12-12 09:47:27.6416 [CommonLib.SBWebUtils.GetDifferenceCountingWebServiceVersion:788] Trace: ResponseHeaders:
+Content-Length: 83
+Cache-Control: private
+Content-Type: text/xml
+Date: Thu, 12 Dec 2019 06:47:27 GMT
+Expires: Thu, 01 Jan 1970 03:00:00 MSK
+Server: ----
+ 
+2019-12-12 09:47:27.6416 [CommonLib.SBWebUtils.GetDifferenceCountingWebServiceVersion:790] Trace: ResponseBody:
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><version-no>1.0</version-no> 
+2019-12-12 09:47:27.6416 [CommonLib.SBWebUtils.GetDifferenceCountingWebServiceVersion:836] Debug: DifferenceCountingWebServiceVersion: 1.0 
+2019-12-12 09:47:27.6416 [CommonLib.SBWebUtils.LoadCountingFacilities:4929] Trace: Request: https://192.168.222.6:8443/DifferenceCountingWebService/facilities 
+2019-12-12 09:47:27.6416 [CommonLib.SBWebUtils.LoadCountingFacilities:4930] Trace: Method: GET 
+2019-12-12 09:47:27.6416 [CommonLib.SBWebUtils.LoadCountingFacilities:4937] Trace: RequestHeaders:
+Accept: text/xml
+Authorization: Basic Njo0NzEx
+ 
+2019-12-12 09:47:28.0010 [CommonLib.SBWebUtils.LoadCountingFacilities:4945] Trace: Response: 200 OK 
+2019-12-12 09:47:28.0010 [CommonLib.SBWebUtils.LoadCountingFacilities:4951] Trace: ResponseHeaders:
+Content-Length: 169
+Cache-Control: private
+Content-Type: text/xml
+Date: Thu, 12 Dec 2019 06:47:27 GMT
+Expires: Thu, 01 Jan 1970 03:00:00 MSK
+Server: ----
+ 
+2019-12-12 09:47:28.0010 [CommonLib.SBWebUtils.LoadCountingFacilities:4953] Trace: ResponseBody:
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><facilities><facility><facilityid>5001</facilityid><facilityname>MS PARKING</facilityname></facility></facilities> 
+2019-12-12 09:47:28.0167 [CommonLib.SBWebUtils.LoadCounters:5138] Trace: Request: https://192.168.222.6:8443/DifferenceCountingWebService/counters?facilityid=5001 
+2019-12-12 09:47:28.0167 [CommonLib.SBWebUtils.LoadCounters:5139] Trace: Method: GET 
+2019-12-12 09:47:28.0167 [CommonLib.SBWebUtils.LoadCounters:5146] Trace: RequestHeaders:
+Accept: text/xml
+Authorization: Basic Njo0NzEx
+ 
+2019-12-12 09:47:28.4229 [CommonLib.SBWebUtils.LoadCounters:5154] Trace: Response: 200 OK 
+2019-12-12 09:47:28.4229 [CommonLib.SBWebUtils.LoadCounters:5160] Trace: ResponseHeaders:
+Content-Length: 5682
+Cache-Control: private
+Content-Type: text/xml
+Date: Thu, 12 Dec 2019 06:47:27 GMT
+Expires: Thu, 01 Jan 1970 03:00:00 MSK
+Server: ----
+ 
+2019-12-12 09:47:28.4229 [CommonLib.SBWebUtils.LoadCounters:5162] Trace: ResponseBody:
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><counters><facility-no>5001</facility-no><standard-counter><id>0</id><type>0</type><text>Pre-booked</text><free>0</free><present>0</present><percent>100</percent><max>0</max><status>Occupied</status><status-value>1</status-value></standard-counter><standard-counter><id>1</id><type>0</type><text>Not reserved</text><free>20</free><present>610</present><percent>96</percent><max>630</max><status>Free</status><status-value>0</status-value></standard-counter><standard-counter><id>2</id><type>0</type><text>Reserved</text><free>70</free><present>0</present><percent>0</percent><max>70</max><status>Free</status><status-value>0</status-value></standard-counter><standard-counter><id>3</id><type>0</type><text>Total</text><free>90</free><present>610</present><percent>87</percent><max>700</max><status>Free</status><status-value>0</status-value></standard-counter><level-counter><id>11</id><type>1</type><text>Floor 1</text><free>0</free><present>0</present><percent>100</percent><max>0</max><status>Occupied</status><status-value>1</status-value></level-counter><level-counter><id>12</id><type>1</type><text>Floor 2</text><free>0</free><present>0</present><percent>100</percent><max>0</max><status>Occupied</status><status-value>1</status-value></level-counter><level-counter><id>13</id><type>1</type><text>Floor 3</text><free>0</free><present>0</present><percent>100</percent><max>0</max><status>Occupied</status><status-value>1</status-value></level-counter><level-counter><id>14</id><type>1</type><text>Floor 4</text><free>0</free><present>0</present><percent>100</percent><max>0</max><status>Occupied</status><status-value>1</status-value></level-counter><sum-counter><id>101</id><type>2</type><text>Shortterm Parker in</text><resetable>9490</resetable><unresetable>9490</unresetable></sum-counter><sum-counter><id>102</id><type>2</type><text>Season Card in</text><resetable>15975</resetable><unresetable>15975</unresetable></sum-counter><sum-counter><id>103</id><type>2</type><text>Congress Card in</text><resetable>0</resetable><unresetable>0</unresetable></sum-counter><sum-counter><id>104</id><type>2</type><text>Parking Cheque in</text><resetable>502</resetable><unresetable>502</unresetable></sum-counter><sum-counter><id>105</id><type>2</type><text>Congress Cheque in</text><resetable>189</resetable><unresetable>189</unresetable></sum-counter><sum-counter><id>106</id><type>2</type><text>Value Card in</text><resetable>0</resetable><unresetable>0</unresetable></sum-counter><sum-counter><id>108</id><type>2</type><text>Operator Card in</text><resetable>0</resetable><unresetable>0</unresetable></sum-counter><sum-counter><id>109</id><type>2</type><text>Service Card in</text><resetable>0</resetable><unresetable>0</unresetable></sum-counter><sum-counter><id>110</id><type>2</type><text>Entry reserved</text><resetable>13</resetable><unresetable>13</unresetable></sum-counter><sum-counter><id>120</id><type>2</type><text>Entry not  reserv.</text><resetable>26143</resetable><unresetable>26143</unresetable></sum-counter><sum-counter><id>130</id><type>2</type><text>Man. open in</text><resetable>22208</resetable><unresetable>22208</unresetable></sum-counter><sum-counter><id>140</id><type>2</type><text>Locked in</text><resetable>148409</resetable><unresetable>148409</unresetable></sum-counter><sum-counter><id>150</id><type>2</type><text>Brok.Barrier in</text><resetable>3</resetable><unresetable>3</unresetable></sum-counter><sum-counter><id>190</id><type>2</type><text>Open Entry</text><resetable>0</resetable><unresetable>0</unresetable></sum-counter><sum-counter><id>201</id><type>2</type><text>Shortterm Parker out</text><resetable>8979</resetable><unresetable>8979</unresetable></sum-counter><sum-counter><id>202</id><type>2</type><text>Season Card out</text><resetable>15439</resetable><unresetable>15439</unresetable></sum-counter><sum-counter><id>203</id><type>2</type><text>Congress Card out</text><resetable>0</resetable><unresetable>0</unresetable></sum-counter><sum-counter><id>204</id><type>2</type><text>Parking Cheque out</text><resetable>477</resetable><unresetable>477</unresetable></sum-counter><sum-counter><id>205</id><type>2</type><text>Season Cheque out</text><resetable>176</resetable><unresetable>176</unresetable></sum-counter><sum-counter><id>206</id><type>2</type><text>Value Card out</text><resetable>0</resetable><unresetable>0</unresetable></sum-counter><sum-counter><id>208</id><type>2</type><text>Operator Card out</text><resetable>0</resetable><unresetable>0</unresetable></sum-counter><sum-counter><id>209</id><type>2</type><text>Service Card out</text><resetable>0</resetable><unresetable>0</unresetable></sum-counter><sum-counter><id>210</id><type>2</type><text>Exit reserved</text><resetable>37</resetable><unresetable>37</unresetable></sum-counter><sum-counter><id>220</id><type>2</type><text>Exit not reserved</text><resetable>19949</resetable><unresetable>19949</unresetable></sum-counter><sum-counter><id>230</id><type>2</type><text>Man. open out</text><resetable>410</resetable><unresetable>410</unresetable></sum-counter><sum-counter><id>240</id><type>2</type><text>Locked out</text><resetable>12058</resetable><unresetable>12058</unresetable></sum-counter><sum-counter><id>250</id><type>2</type><text>Brok. Barrier out</text><resetable>1</resetable><unresetable>1</unresetable></sum-counter><sum-counter><id>280</id><type>2</type><text>Pass. in grace time</text><resetable>5085</resetable><unresetable>5085</unresetable></sum-counter><sum-counter><id>290</id><type>2</type><text>Open exit</text><resetable>0</resetable><unresetable>0</unresetable></sum-counter></counters> 
+2019-12-12 11:53:48.0943 [CommonLib.SBWebUtils.GetDifferenceCountingWebServiceVersion:766] Trace: Request: https://192.168.222.6:8443/DifferenceCountingWebService/version 
+2019-12-12 11:53:48.0943 [CommonLib.SBWebUtils.GetDifferenceCountingWebServiceVersion:767] Trace: Method: GET 
+2019-12-12 11:53:48.0943 [CommonLib.SBWebUtils.GetDifferenceCountingWebServiceVersion:774] Trace: RequestHeaders:
+Accept: text/xml
+Authorization: Basic Njo0NzEx
+ 
+2019-12-12 11:53:48.1567 [CommonLib.SBWebUtils.GetDifferenceCountingWebServiceVersion:782] Trace: Response: 200 OK 
+2019-12-12 11:53:48.1567 [CommonLib.SBWebUtils.GetDifferenceCountingWebServiceVersion:788] Trace: ResponseHeaders:
+Content-Length: 83
+Cache-Control: private
+Content-Type: text/xml
+Date: Thu, 12 Dec 2019 08:53:48 GMT
+Expires: Thu, 01 Jan 1970 03:00:00 MSK
+Server: ----
+ 
+2019-12-12 11:53:48.1567 [CommonLib.SBWebUtils.GetDifferenceCountingWebServiceVersion:790] Trace: ResponseBody:
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><version-no>1.0</version-no> 
+2019-12-12 11:53:48.1567 [CommonLib.SBWebUtils.GetDifferenceCountingWebServiceVersion:836] Debug: DifferenceCountingWebServiceVersion: 1.0 
+2019-12-12 11:53:48.1567 [CommonLib.SBWebUtils.LoadCountingFacilities:4929] Trace: Request: https://192.168.222.6:8443/DifferenceCountingWebService/facilities 
+2019-12-12 11:53:48.1567 [CommonLib.SBWebUtils.LoadCountingFacilities:4930] Trace: Method: GET 
+2019-12-12 11:53:48.1567 [CommonLib.SBWebUtils.LoadCountingFacilities:4937] Trace: RequestHeaders:
+Accept: text/xml
+Authorization: Basic Njo0NzEx
+ 
+2019-12-12 11:53:48.5474 [CommonLib.SBWebUtils.LoadCountingFacilities:4945] Trace: Response: 200 OK 
+2019-12-12 11:53:48.5474 [CommonLib.SBWebUtils.LoadCountingFacilities:4951] Trace: ResponseHeaders:
+Content-Length: 169
+Cache-Control: private
+Content-Type: text/xml
+Date: Thu, 12 Dec 2019 08:53:48 GMT
+Expires: Thu, 01 Jan 1970 03:00:00 MSK
+Server: ----
+ 
+2019-12-12 11:53:48.5474 [CommonLib.SBWebUtils.LoadCountingFacilities:4953] Trace: ResponseBody:
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><facilities><facility><facilityid>5001</facilityid><facilityname>MS PARKING</facilityname></facility></facilities> 
+2019-12-12 11:53:48.5630 [CommonLib.SBWebUtils.LoadCounters:5138] Trace: Request: https://192.168.222.6:8443/DifferenceCountingWebService/counters?facilityid=5001 
+2019-12-12 11:53:48.5630 [CommonLib.SBWebUtils.LoadCounters:5139] Trace: Method: GET 
+2019-12-12 11:53:48.5630 [CommonLib.SBWebUtils.LoadCounters:5146] Trace: RequestHeaders:
+Accept: text/xml
+Authorization: Basic Njo0NzEx
+ 
+2019-12-12 11:53:48.9849 [CommonLib.SBWebUtils.LoadCounters:5154] Trace: Response: 200 OK 
+2019-12-12 11:53:48.9849 [CommonLib.SBWebUtils.LoadCounters:5160] Trace: ResponseHeaders:
+Content-Length: 5681
+Cache-Control: private
+Content-Type: text/xml
+Date: Thu, 12 Dec 2019 08:53:48 GMT
+Expires: Thu, 01 Jan 1970 03:00:00 MSK
+Server: ----
+ 
+2019-12-12 11:53:48.9849 [CommonLib.SBWebUtils.LoadCounters:5162] Trace: ResponseBody:
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><counters><facility-no>5001</facility-no><standard-counter><id>0</id><type>0</type><text>Pre-booked</text><free>0</free><present>0</present><percent>100</percent><max>0</max><status>Occupied</status><status-value>1</status-value></standard-counter><standard-counter><id>1</id><type>0</type><text>Not reserved</text><free>2</free><present>628</present><percent>99</percent><max>630</max><status>Free</status><status-value>0</status-value></standard-counter><standard-counter><id>2</id><type>0</type><text>Reserved</text><free>70</free><present>0</present><percent>0</percent><max>70</max><status>Free</status><status-value>0</status-value></standard-counter><standard-counter><id>3</id><type>0</type><text>Total</text><free>72</free><present>628</present><percent>89</percent><max>700</max><status>Free</status><status-value>0</status-value></standard-counter><level-counter><id>11</id><type>1</type><text>Floor 1</text><free>0</free><present>0</present><percent>100</percent><max>0</max><status>Occupied</status><status-value>1</status-value></level-counter><level-counter><id>12</id><type>1</type><text>Floor 2</text><free>0</free><present>0</present><percent>100</percent><max>0</max><status>Occupied</status><status-value>1</status-value></level-counter><level-counter><id>13</id><type>1</type><text>Floor 3</text><free>0</free><present>0</present><percent>100</percent><max>0</max><status>Occupied</status><status-value>1</status-value></level-counter><level-counter><id>14</id><type>1</type><text>Floor 4</text><free>0</free><present>0</present><percent>100</percent><max>0</max><status>Occupied</status><status-value>1</status-value></level-counter><sum-counter><id>101</id><type>2</type><text>Shortterm Parker in</text><resetable>9490</resetable><unresetable>9490</unresetable></sum-counter><sum-counter><id>102</id><type>2</type><text>Season Card in</text><resetable>15994</resetable><unresetable>15994</unresetable></sum-counter><sum-counter><id>103</id><type>2</type><text>Congress Card in</text><resetable>0</resetable><unresetable>0</unresetable></sum-counter><sum-counter><id>104</id><type>2</type><text>Parking Cheque in</text><resetable>502</resetable><unresetable>502</unresetable></sum-counter><sum-counter><id>105</id><type>2</type><text>Congress Cheque in</text><resetable>189</resetable><unresetable>189</unresetable></sum-counter><sum-counter><id>106</id><type>2</type><text>Value Card in</text><resetable>0</resetable><unresetable>0</unresetable></sum-counter><sum-counter><id>108</id><type>2</type><text>Operator Card in</text><resetable>0</resetable><unresetable>0</unresetable></sum-counter><sum-counter><id>109</id><type>2</type><text>Service Card in</text><resetable>0</resetable><unresetable>0</unresetable></sum-counter><sum-counter><id>110</id><type>2</type><text>Entry reserved</text><resetable>13</resetable><unresetable>13</unresetable></sum-counter><sum-counter><id>120</id><type>2</type><text>Entry not  reserv.</text><resetable>26162</resetable><unresetable>26162</unresetable></sum-counter><sum-counter><id>130</id><type>2</type><text>Man. open in</text><resetable>22227</resetable><unresetable>22227</unresetable></sum-counter><sum-counter><id>140</id><type>2</type><text>Locked in</text><resetable>148409</resetable><unresetable>148409</unresetable></sum-counter><sum-counter><id>150</id><type>2</type><text>Brok.Barrier in</text><resetable>3</resetable><unresetable>3</unresetable></sum-counter><sum-counter><id>190</id><type>2</type><text>Open Entry</text><resetable>0</resetable><unresetable>0</unresetable></sum-counter><sum-counter><id>201</id><type>2</type><text>Shortterm Parker out</text><resetable>8979</resetable><unresetable>8979</unresetable></sum-counter><sum-counter><id>202</id><type>2</type><text>Season Card out</text><resetable>15457</resetable><unresetable>15457</unresetable></sum-counter><sum-counter><id>203</id><type>2</type><text>Congress Card out</text><resetable>0</resetable><unresetable>0</unresetable></sum-counter><sum-counter><id>204</id><type>2</type><text>Parking Cheque out</text><resetable>477</resetable><unresetable>477</unresetable></sum-counter><sum-counter><id>205</id><type>2</type><text>Season Cheque out</text><resetable>176</resetable><unresetable>176</unresetable></sum-counter><sum-counter><id>206</id><type>2</type><text>Value Card out</text><resetable>0</resetable><unresetable>0</unresetable></sum-counter><sum-counter><id>208</id><type>2</type><text>Operator Card out</text><resetable>0</resetable><unresetable>0</unresetable></sum-counter><sum-counter><id>209</id><type>2</type><text>Service Card out</text><resetable>0</resetable><unresetable>0</unresetable></sum-counter><sum-counter><id>210</id><type>2</type><text>Exit reserved</text><resetable>37</resetable><unresetable>37</unresetable></sum-counter><sum-counter><id>220</id><type>2</type><text>Exit not reserved</text><resetable>19967</resetable><unresetable>19967</unresetable></sum-counter><sum-counter><id>230</id><type>2</type><text>Man. open out</text><resetable>410</resetable><unresetable>410</unresetable></sum-counter><sum-counter><id>240</id><type>2</type><text>Locked out</text><resetable>12060</resetable><unresetable>12060</unresetable></sum-counter><sum-counter><id>250</id><type>2</type><text>Brok. Barrier out</text><resetable>1</resetable><unresetable>1</unresetable></sum-counter><sum-counter><id>280</id><type>2</type><text>Pass. in grace time</text><resetable>5085</resetable><unresetable>5085</unresetable></sum-counter><sum-counter><id>290</id><type>2</type><text>Open exit</text><resetable>0</resetable><unresetable>0</unresetable></sum-counter></counters> 
+2019-12-12 11:53:51.9071 [CommonLib.SBWebUtils.GetTicketClassificationWebServiceVersion:256] Trace: Request: https://192.168.222.6:8443/TicketClassificationWebService/version 
+2019-12-12 11:53:51.9071 [CommonLib.SBWebUtils.GetTicketClassificationWebServiceVersion:257] Trace: Method: GET 
+2019-12-12 11:53:51.9071 [CommonLib.SBWebUtils.GetTicketClassificationWebServiceVersion:264] Trace: RequestHeaders:
+Accept: text/xml
+Authorization: Basic Njo0NzEx
+ 
+2019-12-12 11:53:51.9227 [CommonLib.SBWebUtils.GetTicketClassificationWebServiceVersion:272] Trace: Response: 200 OK 
+2019-12-12 11:53:51.9227 [CommonLib.SBWebUtils.GetTicketClassificationWebServiceVersion:278] Trace: ResponseHeaders:
+Content-Length: 83
+Cache-Control: private
+Content-Type: text/xml
+Date: Thu, 12 Dec 2019 08:53:51 GMT
+Expires: Thu, 01 Jan 1970 03:00:00 MSK
+Server: ----
+ 
+2019-12-12 11:53:51.9227 [CommonLib.SBWebUtils.GetTicketClassificationWebServiceVersion:280] Trace: ResponseBody:
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><version-no>3.1</version-no> 
+2019-12-12 11:53:51.9227 [CommonLib.SBWebUtils.GetTicketClassificationWebServiceVersion:326] Debug: TicketClassificationWebServiceVersion: 3.1 
+2019-12-12 11:53:51.9227 [CommonLib.SBWebUtils.CheckTicketBarcode:1267] Trace: Request: https://192.168.222.6:8443/TicketClassificationWebService/ticket-classification?requestid=0&barcode=716948510989806555&type=1 
+2019-12-12 11:53:51.9227 [CommonLib.SBWebUtils.CheckTicketBarcode:1268] Trace: Method: GET 
+2019-12-12 11:53:51.9227 [CommonLib.SBWebUtils.CheckTicketBarcode:1275] Trace: RequestHeaders:
+Accept: text/xml
+Authorization: Basic Njo0NzEx
+ 
+2019-12-12 11:53:51.9852 [CommonLib.SBWebUtils.CheckTicketBarcode:1283] Trace: Response: 200 OK 
+2019-12-12 11:53:51.9852 [CommonLib.SBWebUtils.CheckTicketBarcode:1289] Trace: ResponseHeaders:
+Content-Length: 472
+Cache-Control: private
+Content-Type: text/xml
+Date: Thu, 12 Dec 2019 08:53:51 GMT
+Expires: Thu, 01 Jan 1970 03:00:00 MSK
+Server: ----
+ 
+2019-12-12 11:53:51.9852 [CommonLib.SBWebUtils.CheckTicketBarcode:1291] Trace: ResponseBody:
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><classification><requestid>0</requestid><responsecode>0</responsecode><ticketdata><operator>40512</operator><type>1</type><subtype>0</subtype><class>0</class><entryfacility>5001</entryfacility><presentinfacility>5001</presentinfacility><entrytime>20191205185524</entrytime><cell>1891</cell><device>103</device><countofpayments>0</countofpayments><epan>02405121891011039339681240??</epan></ticketdata></classification> 
+2019-12-12 11:53:51.9852 [CommonLib.SBWebUtils.CheckTicketEpan:970] Trace: Request: https://192.168.222.6:8443/TicketClassificationWebService/ext-medium-ticket-classification?requestid=0&epan=02405121891011039339681240%3F%3F 
+2019-12-12 11:53:51.9852 [CommonLib.SBWebUtils.CheckTicketEpan:971] Trace: Method: GET 
+2019-12-12 11:53:51.9852 [CommonLib.SBWebUtils.CheckTicketEpan:978] Trace: RequestHeaders:
+Accept: text/xml
+Authorization: Basic Njo0NzEx
+ 
+2019-12-12 11:53:52.0790 [CommonLib.SBWebUtils.CheckTicketEpan:986] Trace: Response: 200 OK 
+2019-12-12 11:53:52.0790 [CommonLib.SBWebUtils.CheckTicketEpan:992] Trace: ResponseHeaders:
+Content-Length: 733
+Cache-Control: private
+Content-Type: text/xml
+Date: Thu, 12 Dec 2019 08:53:51 GMT
+Expires: Thu, 01 Jan 1970 03:00:00 MSK
+Server: ----
+ 
+2019-12-12 11:53:52.0790 [CommonLib.SBWebUtils.CheckTicketEpan:994] Trace: ResponseBody:
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><classificationextmedium><requestid>0</requestid><responsecode>0</responsecode><ticketdataextmedium><operator>40512</operator><type>1</type><subtype>0</subtype><class>0</class><entryfacility>5001</entryfacility><presentinfacility>5001</presentinfacility><entrytime>20191205185524</entrytime><tarifftime>20191205185524</tarifftime><cell>1891</cell><device>103</device><countofpayments>0</countofpayments><epan>02405121891011039339681240??</epan><moneyvalue>0</moneyvalue><pointvalue>0</pointvalue><timevalue>0</timevalue><expiredate>19770101000000</expiredate><weekdayprogram>0</weekdayprogram><licenseplate>E931OB50</licenseplate></ticketdataextmedium></classificationextmedium> 
+2019-12-12 11:53:52.1415 [CommonLib.SBWebUtils.GetPaymentWebServiceVersion:154] Trace: Request: https://192.168.222.6:8443/PaymentWebService/version 
+2019-12-12 11:53:52.1415 [CommonLib.SBWebUtils.GetPaymentWebServiceVersion:155] Trace: Method: GET 
+2019-12-12 11:53:52.1415 [CommonLib.SBWebUtils.GetPaymentWebServiceVersion:162] Trace: RequestHeaders:
+Accept: text/xml
+Authorization: Basic Njo0NzEx
+ 
+2019-12-12 11:53:52.1727 [CommonLib.SBWebUtils.GetPaymentWebServiceVersion:170] Trace: Response: 200 OK 
+2019-12-12 11:53:52.1727 [CommonLib.SBWebUtils.GetPaymentWebServiceVersion:176] Trace: ResponseHeaders:
+Content-Length: 141
+Cache-Control: private
+Content-Type: text/xml
+Date: Thu, 12 Dec 2019 08:53:51 GMT
+Expires: Thu, 01 Jan 1970 03:00:00 MSK
+Server: ----
+ 
+2019-12-12 11:53:52.1727 [CommonLib.SBWebUtils.GetPaymentWebServiceVersion:178] Trace: ResponseBody:
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><version xmlns="http://gsph.sub.com/payment/types"><version>1.12.1</version></version> 
+2019-12-12 11:53:52.1727 [CommonLib.SBWebUtils.GetPaymentWebServiceVersion:224] Debug: PaymentWebServiceVersion: 1.12.1 
+2019-12-12 11:53:52.1727 [CommonLib.SBWebUtils.LoadPayDevices:1368] Trace: Request: https://192.168.222.6:8443/PaymentWebService/devices 
+2019-12-12 11:53:52.1727 [CommonLib.SBWebUtils.LoadPayDevices:1369] Trace: Method: GET 
+2019-12-12 11:53:52.1727 [CommonLib.SBWebUtils.LoadPayDevices:1376] Trace: RequestHeaders:
+Accept: text/xml
+Authorization: Basic Njo0NzEx
+ 
+2019-12-12 11:53:52.2352 [CommonLib.SBWebUtils.LoadPayDevices:1384] Trace: Response: 200 OK 
+2019-12-12 11:53:52.2352 [CommonLib.SBWebUtils.LoadPayDevices:1390] Trace: ResponseHeaders:
+Content-Length: 2500
+Cache-Control: private
+Content-Type: text/xml
+Date: Thu, 12 Dec 2019 08:53:51 GMT
+Expires: Thu, 01 Jan 1970 03:00:00 MSK
+Server: ----
+ 
+2019-12-12 11:53:52.2352 [CommonLib.SBWebUtils.LoadPayDevices:1392] Trace: ResponseBody:
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><devices xmlns="http://gsph.sub.com/payment/types"><device><computerId>1891</computerId><deviceId>101</deviceId><deviceShortName>ENT-1</deviceShortName><deviceLongName>ENT-1</deviceLongName></device><device><computerId>1891</computerId><deviceId>102</deviceId><deviceShortName>ENT-2</deviceShortName><deviceLongName>ENT-2</deviceLongName></device><device><computerId>1891</computerId><deviceId>103</deviceId><deviceShortName>ENT-3</deviceShortName><deviceLongName>ENT-3</deviceLongName></device><device><computerId>1891</computerId><deviceId>104</deviceId><deviceShortName>ENT-4</deviceShortName><deviceLongName>ENT-4</deviceLongName></device><device><computerId>1891</computerId><deviceId>201</deviceId><deviceShortName>EXT-1</deviceShortName><deviceLongName>EXT-1</deviceLongName></device><device><computerId>1891</computerId><deviceId>202</deviceId><deviceShortName>EXT-2</deviceShortName><deviceLongName>EXT-2</deviceLongName></device><device><computerId>1891</computerId><deviceId>203</deviceId><deviceShortName>EXT-3</deviceShortName><deviceLongName>EXT-3</deviceLongName></device><device><computerId>1891</computerId><deviceId>204</deviceId><deviceShortName>EXT-4</deviceShortName><deviceLongName>EXT-4</deviceLongName></device><device><computerId>1891</computerId><deviceId>601</deviceId><deviceShortName>PKA1</deviceShortName><deviceLongName>Касса 1</deviceLongName></device><device><computerId>1891</computerId><deviceId>602</deviceId><deviceShortName>PKA2</deviceShortName><deviceLongName>Касса 2</deviceLongName></device><device><computerId>1891</computerId><deviceId>603</deviceId><deviceShortName>PKA3</deviceShortName><deviceLongName>PKA3R</deviceLongName></device><device><computerId>1891</computerId><deviceId>604</deviceId><deviceShortName>PKA4</deviceShortName><deviceLongName>PKA4R</deviceLongName></device><device><computerId>1891</computerId><deviceId>701</deviceId><deviceShortName>iHVE</deviceShortName><deviceLongName>interne HVE</deviceLongName></device><device><computerId>1891</computerId><deviceId>702</deviceId><deviceShortName>MPS2</deviceShortName><deviceLongName>MPS2</deviceLongName></device><device><computerId>5001</computerId><deviceId>1891</deviceId><deviceShortName>MPARK</deviceShortName><deviceLongName>MS PARKING</deviceLongName></device><device><computerId>5002</computerId><deviceId>1891</deviceId><deviceShortName>PKA</deviceShortName><deviceLongName>PKA</deviceLongName></device></devices> 
+2019-12-12 11:53:52.2352 [CommonLib.SBWebUtils.GetAmountDue:2015] Trace: Request: https://192.168.222.6:8443/TicketClassificationWebService/ticket-calculation?requestid=0&paytime=20191212115352 
+2019-12-12 11:53:52.2352 [CommonLib.SBWebUtils.GetAmountDue:2016] Trace: Method: POST 
+2019-12-12 11:53:52.2352 [CommonLib.SBWebUtils.GetAmountDue:2022] Trace: RequestHeaders:
+Content-Type: text/xml; charset=utf-8
+Accept: text/xml
+Authorization: Basic Njo0NzEx
+Host: 192.168.222.6:8443
+ 
+2019-12-12 11:53:52.2352 [CommonLib.SBWebUtils.GetAmountDue:2024] Trace: RequestBody:
+<?xml version="1.0" encoding="utf-8"?>
+<ticketdata xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <operator>40512</operator>
+  <type>1</type>
+  <subtype>0</subtype>
+  <class>0</class>
+  <entryfacility>5001</entryfacility>
+  <presentinfacility>0</presentinfacility>
+  <entrytime>20191205185524</entrytime>
+  <cell>1891</cell>
+  <device>701</device>
+  <epan>02405121891011039339681240??</epan>
+  <tarifftime>20191205185524</tarifftime>
+  <countofpayments>0</countofpayments>
+</ticketdata> 
+2019-12-12 11:53:52.6259 [CommonLib.SBWebUtils.GetAmountDue:2032] Trace: Response: 200 OK 
+2019-12-12 11:53:52.6259 [CommonLib.SBWebUtils.GetAmountDue:2038] Trace: ResponseHeaders:
+Content-Length: 232
+Content-Type: text/xml
+Date: Thu, 12 Dec 2019 08:53:51 GMT
+Server: ----
+ 
+2019-12-12 11:53:52.6259 [CommonLib.SBWebUtils.GetAmountDue:2040] Trace: ResponseBody:
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><calculation><requestid>0</requestid><responsecode>0</responsecode><amount>365000</amount><duration>06-16-58</duration><tarifftime>2019-12-12 11:53:52</tarifftime></calculation> 
+2019-12-12 11:53:52.8916 [CommonLib.SBWebUtils.GetDifferenceCountingWebServiceVersion:766] Trace: Request: https://192.168.222.6:8443/DifferenceCountingWebService/version 
+2019-12-12 11:53:52.8916 [CommonLib.SBWebUtils.GetDifferenceCountingWebServiceVersion:767] Trace: Method: GET 
+2019-12-12 11:53:52.8916 [CommonLib.SBWebUtils.GetDifferenceCountingWebServiceVersion:774] Trace: RequestHeaders:
+Accept: text/xml
+Authorization: Basic Njo0NzEx
+ 
+2019-12-12 11:53:52.9228 [CommonLib.SBWebUtils.GetDifferenceCountingWebServiceVersion:782] Trace: Response: 200 OK 
+2019-12-12 11:53:52.9228 [CommonLib.SBWebUtils.GetDifferenceCountingWebServiceVersion:788] Trace: ResponseHeaders:
+Content-Length: 83
+Cache-Control: private
+Content-Type: text/xml
+Date: Thu, 12 Dec 2019 08:53:51 GMT
+Expires: Thu, 01 Jan 1970 03:00:00 MSK
+Server: ----
+ 
+2019-12-12 11:53:52.9228 [CommonLib.SBWebUtils.GetDifferenceCountingWebServiceVersion:790] Trace: ResponseBody:
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><version-no>1.0</version-no> 
+2019-12-12 11:53:52.9228 [CommonLib.SBWebUtils.GetDifferenceCountingWebServiceVersion:836] Debug: DifferenceCountingWebServiceVersion: 1.0 
+2019-12-12 11:53:52.9228 [CommonLib.SBWebUtils.LoadCountingFacilities:4929] Trace: Request: https://192.168.222.6:8443/DifferenceCountingWebService/facilities 
+2019-12-12 11:53:52.9228 [CommonLib.SBWebUtils.LoadCountingFacilities:4930] Trace: Method: GET 
+2019-12-12 11:53:52.9228 [CommonLib.SBWebUtils.LoadCountingFacilities:4937] Trace: RequestHeaders:
+Accept: text/xml
+Authorization: Basic Njo0NzEx
+ 
+2019-12-12 11:53:53.2666 [CommonLib.SBWebUtils.LoadCountingFacilities:4945] Trace: Response: 200 OK 
+2019-12-12 11:53:53.2666 [CommonLib.SBWebUtils.LoadCountingFacilities:4951] Trace: ResponseHeaders:
+Content-Length: 169
+Cache-Control: private
+Content-Type: text/xml
+Date: Thu, 12 Dec 2019 08:53:53 GMT
+Expires: Thu, 01 Jan 1970 03:00:00 MSK
+Server: ----
+ 
+2019-12-12 11:53:53.2666 [CommonLib.SBWebUtils.LoadCountingFacilities:4953] Trace: ResponseBody:
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><facilities><facility><facilityid>5001</facilityid><facilityname>MS PARKING</facilityname></facility></facilities> 
+2019-12-12 11:53:53.2666 [CommonLib.SBWebUtils.LoadCounters:5138] Trace: Request: https://192.168.222.6:8443/DifferenceCountingWebService/counters?facilityid=5001 
+2019-12-12 11:53:53.2666 [CommonLib.SBWebUtils.LoadCounters:5139] Trace: Method: GET 
+2019-12-12 11:53:53.2666 [CommonLib.SBWebUtils.LoadCounters:5146] Trace: RequestHeaders:
+Accept: text/xml
+Authorization: Basic Njo0NzEx
+ 
+2019-12-12 11:53:53.6572 [CommonLib.SBWebUtils.LoadCounters:5154] Trace: Response: 200 OK 
+2019-12-12 11:53:53.6572 [CommonLib.SBWebUtils.LoadCounters:5160] Trace: ResponseHeaders:
+Content-Length: 5681
+Cache-Control: private
+Content-Type: text/xml
+Date: Thu, 12 Dec 2019 08:53:53 GMT
+Expires: Thu, 01 Jan 1970 03:00:00 MSK
+Server: ----
+ 
+2019-12-12 11:53:53.6572 [CommonLib.SBWebUtils.LoadCounters:5162] Trace: ResponseBody:
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><counters><facility-no>5001</facility-no><standard-counter><id>0</id><type>0</type><text>Pre-booked</text><free>0</free><present>0</present><percent>100</percent><max>0</max><status>Occupied</status><status-value>1</status-value></standard-counter><standard-counter><id>1</id><type>0</type><text>Not reserved</text><free>2</free><present>628</present><percent>99</percent><max>630</max><status>Free</status><status-value>0</status-value></standard-counter><standard-counter><id>2</id><type>0</type><text>Reserved</text><free>70</free><present>0</present><percent>0</percent><max>70</max><status>Free</status><status-value>0</status-value></standard-counter><standard-counter><id>3</id><type>0</type><text>Total</text><free>72</free><present>628</present><percent>89</percent><max>700</max><status>Free</status><status-value>0</status-value></standard-counter><level-counter><id>11</id><type>1</type><text>Floor 1</text><free>0</free><present>0</present><percent>100</percent><max>0</max><status>Occupied</status><status-value>1</status-value></level-counter><level-counter><id>12</id><type>1</type><text>Floor 2</text><free>0</free><present>0</present><percent>100</percent><max>0</max><status>Occupied</status><status-value>1</status-value></level-counter><level-counter><id>13</id><type>1</type><text>Floor 3</text><free>0</free><present>0</present><percent>100</percent><max>0</max><status>Occupied</status><status-value>1</status-value></level-counter><level-counter><id>14</id><type>1</type><text>Floor 4</text><free>0</free><present>0</present><percent>100</percent><max>0</max><status>Occupied</status><status-value>1</status-value></level-counter><sum-counter><id>101</id><type>2</type><text>Shortterm Parker in</text><resetable>9490</resetable><unresetable>9490</unresetable></sum-counter><sum-counter><id>102</id><type>2</type><text>Season Card in</text><resetable>15994</resetable><unresetable>15994</unresetable></sum-counter><sum-counter><id>103</id><type>2</type><text>Congress Card in</text><resetable>0</resetable><unresetable>0</unresetable></sum-counter><sum-counter><id>104</id><type>2</type><text>Parking Cheque in</text><resetable>502</resetable><unresetable>502</unresetable></sum-counter><sum-counter><id>105</id><type>2</type><text>Congress Cheque in</text><resetable>189</resetable><unresetable>189</unresetable></sum-counter><sum-counter><id>106</id><type>2</type><text>Value Card in</text><resetable>0</resetable><unresetable>0</unresetable></sum-counter><sum-counter><id>108</id><type>2</type><text>Operator Card in</text><resetable>0</resetable><unresetable>0</unresetable></sum-counter><sum-counter><id>109</id><type>2</type><text>Service Card in</text><resetable>0</resetable><unresetable>0</unresetable></sum-counter><sum-counter><id>110</id><type>2</type><text>Entry reserved</text><resetable>13</resetable><unresetable>13</unresetable></sum-counter><sum-counter><id>120</id><type>2</type><text>Entry not  reserv.</text><resetable>26162</resetable><unresetable>26162</unresetable></sum-counter><sum-counter><id>130</id><type>2</type><text>Man. open in</text><resetable>22227</resetable><unresetable>22227</unresetable></sum-counter><sum-counter><id>140</id><type>2</type><text>Locked in</text><resetable>148409</resetable><unresetable>148409</unresetable></sum-counter><sum-counter><id>150</id><type>2</type><text>Brok.Barrier in</text><resetable>3</resetable><unresetable>3</unresetable></sum-counter><sum-counter><id>190</id><type>2</type><text>Open Entry</text><resetable>0</resetable><unresetable>0</unresetable></sum-counter><sum-counter><id>201</id><type>2</type><text>Shortterm Parker out</text><resetable>8979</resetable><unresetable>8979</unresetable></sum-counter><sum-counter><id>202</id><type>2</type><text>Season Card out</text><resetable>15457</resetable><unresetable>15457</unresetable></sum-counter><sum-counter><id>203</id><type>2</type><text>Congress Card out</text><resetable>0</resetable><unresetable>0</unresetable></sum-counter><sum-counter><id>204</id><type>2</type><text>Parking Cheque out</text><resetable>477</resetable><unresetable>477</unresetable></sum-counter><sum-counter><id>205</id><type>2</type><text>Season Cheque out</text><resetable>176</resetable><unresetable>176</unresetable></sum-counter><sum-counter><id>206</id><type>2</type><text>Value Card out</text><resetable>0</resetable><unresetable>0</unresetable></sum-counter><sum-counter><id>208</id><type>2</type><text>Operator Card out</text><resetable>0</resetable><unresetable>0</unresetable></sum-counter><sum-counter><id>209</id><type>2</type><text>Service Card out</text><resetable>0</resetable><unresetable>0</unresetable></sum-counter><sum-counter><id>210</id><type>2</type><text>Exit reserved</text><resetable>37</resetable><unresetable>37</unresetable></sum-counter><sum-counter><id>220</id><type>2</type><text>Exit not reserved</text><resetable>19967</resetable><unresetable>19967</unresetable></sum-counter><sum-counter><id>230</id><type>2</type><text>Man. open out</text><resetable>410</resetable><unresetable>410</unresetable></sum-counter><sum-counter><id>240</id><type>2</type><text>Locked out</text><resetable>12060</resetable><unresetable>12060</unresetable></sum-counter><sum-counter><id>250</id><type>2</type><text>Brok. Barrier out</text><resetable>1</resetable><unresetable>1</unresetable></sum-counter><sum-counter><id>280</id><type>2</type><text>Pass. in grace time</text><resetable>5085</resetable><unresetable>5085</unresetable></sum-counter><sum-counter><id>290</id><type>2</type><text>Open exit</text><resetable>0</resetable><unresetable>0</unresetable></sum-counter></counters> 

@@ -1,0 +1,910 @@
+2019-12-12 00:00:00.1569 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 00:00:00.1725 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 00:00:00.1881 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 00:00:00.2037 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/323A/info 
+2019-12-12 00:00:00.2037 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 00:00:03.5165 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 00:00:03.5165 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 00:00:03.5165 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 00:00:03.5478 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/5001/info 
+2019-12-12 00:00:03.8447 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 00:00:03.8447 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 00:00:03.8447 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 00:00:03.8759 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111A/info 
+2019-12-12 00:00:03.8759 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 00:00:03.9384 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 00:00:03.9384 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 00:00:03.9384 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 00:00:04.0166 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111A/info 
+2019-12-12 00:00:04.0166 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 00:00:04.3447 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 00:00:04.3447 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 00:00:04.3447 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 00:00:04.3604 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111A/info 
+2019-12-12 00:00:04.3604 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 00:00:04.4072 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 00:00:04.4072 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 00:00:04.4228 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 00:00:04.4385 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111ZZZ/info 
+2019-12-12 00:00:04.4385 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 00:00:04.4854 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 00:00:04.4854 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 00:00:04.4854 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 00:00:04.5166 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111ZZZ/info 
+2019-12-12 00:00:04.5166 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 00:00:04.5947 [AISCGWHttp.InfoController.Get:63] Debug: parkingId: 5001, lang: ru 
+2019-12-12 00:00:04.8760 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 00:00:04.8760 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 00:00:04.8760 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 00:00:04.8916 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111ZZZ/info 
+2019-12-12 00:00:04.8916 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 00:00:05.2042 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 00:00:05.2042 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 00:00:05.2042 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 00:00:05.2198 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111new/info 
+2019-12-12 00:00:05.2198 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 00:00:05.4230 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Pre-booked' id: 0 type: 0 max: 0 present: 0 free: 0 status: 1 'Occupied' 
+2019-12-12 00:00:05.4230 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Not reserved' id: 1 type: 0 max: 630 present: 548 free: 82 status: 0 'Free' 
+2019-12-12 00:00:05.4230 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Reserved' id: 2 type: 0 max: 70 present: 0 free: 70 status: 0 'Free' 
+2019-12-12 00:00:05.4230 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Total' id: 3 type: 0 max: 700 present: 548 free: 152 status: 0 'Free' 
+2019-12-12 00:00:05.4230 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Floor 1' id: 11 type: 1 max: 0 present: 0 free: 0 status: 1 'Occupied' 
+2019-12-12 00:00:05.4230 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Floor 2' id: 12 type: 1 max: 0 present: 0 free: 0 status: 1 'Occupied' 
+2019-12-12 00:00:05.4230 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Floor 3' id: 13 type: 1 max: 0 present: 0 free: 0 status: 1 'Occupied' 
+2019-12-12 00:00:05.4230 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Floor 4' id: 14 type: 1 max: 0 present: 0 free: 0 status: 1 'Occupied' 
+2019-12-12 00:00:05.4230 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Shortterm Parker in' id: 101 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 00:00:05.4230 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Season Card in' id: 102 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 00:00:05.4230 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Congress Card in' id: 103 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 00:00:05.4230 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Parking Cheque in' id: 104 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 00:00:05.4230 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Congress Cheque in' id: 105 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 00:00:05.4230 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Value Card in' id: 106 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 00:00:05.4230 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Operator Card in' id: 108 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 00:00:05.4230 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Service Card in' id: 109 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 00:00:05.4230 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Entry reserved' id: 110 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 00:00:05.4230 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Entry not  reserv.' id: 120 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 00:00:05.4230 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Man. open in' id: 130 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 00:00:05.4230 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Locked in' id: 140 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 00:00:05.4230 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Brok.Barrier in' id: 150 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 00:00:05.4230 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Open Entry' id: 190 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 00:00:05.4230 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Shortterm Parker out' id: 201 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 00:00:05.4230 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Season Card out' id: 202 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 00:00:05.4230 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Congress Card out' id: 203 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 00:00:05.4230 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Parking Cheque out' id: 204 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 00:00:05.4230 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Season Cheque out' id: 205 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 00:00:05.4230 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Value Card out' id: 206 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 00:00:05.4230 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Operator Card out' id: 208 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 00:00:05.4230 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Service Card out' id: 209 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 00:00:05.4230 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Exit reserved' id: 210 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 00:00:05.4230 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Exit not reserved' id: 220 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 00:00:05.4230 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Man. open out' id: 230 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 00:00:05.4230 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Locked out' id: 240 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 00:00:05.4230 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Brok. Barrier out' id: 250 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 00:00:05.4230 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Pass. in grace time' id: 280 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 00:00:05.4230 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Open exit' id: 290 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 00:00:05.4386 [AISCGWHttp.InfoController.Get:259] Debug: StatusCode: 200, ReasonPhrase: 'OK', Version: 1.1, Content: System.Net.Http.StringContent, Headers:
+{
+  Content-Type: application/json; charset=utf-8
+} 
+2019-12-12 00:00:05.4386 [AISCGWHttp.InfoController.Get:260] Debug: {"address":"Москва, Ходынский б-р д.1","note":"Инвалиды I и II Группа бесплатно. Нужно обратиться к диспетчеру парковки с документами.","name":"ДС \"Мегаспорт\"","serviceTypes":{"tickets":true,"subscription":false,"subscriptionWithSpace":false,"reservation":false},"phone":"+7-495-643-1818","levels":3,"places":[{"id":"5001","level":0,"name":"MS PARKING","total":700,"handicappedTotal":70,"totalFree":152,"handicappedFree":70},{"id":"11","level":1,"name":"Floor 1","total":0,"handicappedTotal":0,"totalFree":0,"handicappedFree":0},{"id":"12","level":2,"name":"Floor 2","total":0,"handicappedTotal":0,"totalFree":0,"handicappedFree":0}],"tariff":"50 рублей в час, 350 рублей суточный. В день Мероприятия 400 рублей за 7 часов с момента въезда на парковку","isWork":true,"schedule":"Круглосуточно","parkingDocMask":"[0-9]{26}","lost":false,"eTicket":false,"priceRange":{"ticket":{"min":50,"max":300000},"subscription":{"min":0,"max":0}},"vehicleType":["car"]} 
+2019-12-12 00:00:05.4386 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 00:00:05.4698 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 00:00:05.4698 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 00:00:05.4698 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 00:00:05.4698 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/5001/info 
+2019-12-12 00:00:05.4698 [AISCGWHttp.InfoController.Get:63] Debug: parkingId: 5001, lang: ru 
+2019-12-12 00:00:05.5948 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 00:00:05.5948 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 00:00:05.5948 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 00:00:05.6105 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111new/info 
+2019-12-12 00:00:05.6105 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 00:00:05.6730 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 00:00:05.6730 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 00:00:05.6730 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 00:00:05.6886 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111www/info 
+2019-12-12 00:00:05.6886 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 00:00:05.8917 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 00:00:05.8917 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 00:00:05.8917 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 00:00:05.9073 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111qa/info 
+2019-12-12 00:00:05.9073 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 00:00:06.1105 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 00:00:06.1105 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 00:00:06.1105 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 00:00:06.1261 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111qaZ/info 
+2019-12-12 00:00:06.1261 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 00:00:06.1886 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 00:00:06.1886 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 00:00:06.1886 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 00:00:06.2043 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111qaM/info 
+2019-12-12 00:00:06.2043 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 00:00:06.2668 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Pre-booked' id: 0 type: 0 max: 0 present: 0 free: 0 status: 1 'Occupied' 
+2019-12-12 00:00:06.2668 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Not reserved' id: 1 type: 0 max: 630 present: 548 free: 82 status: 0 'Free' 
+2019-12-12 00:00:06.2668 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Reserved' id: 2 type: 0 max: 70 present: 0 free: 70 status: 0 'Free' 
+2019-12-12 00:00:06.2668 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Total' id: 3 type: 0 max: 700 present: 548 free: 152 status: 0 'Free' 
+2019-12-12 00:00:06.2668 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Floor 1' id: 11 type: 1 max: 0 present: 0 free: 0 status: 1 'Occupied' 
+2019-12-12 00:00:06.2668 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Floor 2' id: 12 type: 1 max: 0 present: 0 free: 0 status: 1 'Occupied' 
+2019-12-12 00:00:06.2668 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Floor 3' id: 13 type: 1 max: 0 present: 0 free: 0 status: 1 'Occupied' 
+2019-12-12 00:00:06.2668 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Floor 4' id: 14 type: 1 max: 0 present: 0 free: 0 status: 1 'Occupied' 
+2019-12-12 00:00:06.2668 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Shortterm Parker in' id: 101 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 00:00:06.2668 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Season Card in' id: 102 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 00:00:06.2668 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Congress Card in' id: 103 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 00:00:06.2668 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Parking Cheque in' id: 104 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 00:00:06.2668 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Congress Cheque in' id: 105 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 00:00:06.2668 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Value Card in' id: 106 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 00:00:06.2668 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Operator Card in' id: 108 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 00:00:06.2668 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Service Card in' id: 109 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 00:00:06.2668 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Entry reserved' id: 110 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 00:00:06.2668 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Entry not  reserv.' id: 120 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 00:00:06.2668 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Man. open in' id: 130 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 00:00:06.2668 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Locked in' id: 140 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 00:00:06.2668 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Brok.Barrier in' id: 150 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 00:00:06.2668 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Open Entry' id: 190 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 00:00:06.2668 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Shortterm Parker out' id: 201 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 00:00:06.2668 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Season Card out' id: 202 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 00:00:06.2668 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Congress Card out' id: 203 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 00:00:06.2668 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Parking Cheque out' id: 204 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 00:00:06.2668 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Season Cheque out' id: 205 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 00:00:06.2668 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Value Card out' id: 206 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 00:00:06.2668 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Operator Card out' id: 208 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 00:00:06.2668 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Service Card out' id: 209 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 00:00:06.2668 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Exit reserved' id: 210 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 00:00:06.2668 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Exit not reserved' id: 220 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 00:00:06.2668 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Man. open out' id: 230 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 00:00:06.2668 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Locked out' id: 240 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 00:00:06.2668 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Brok. Barrier out' id: 250 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 00:00:06.2668 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Pass. in grace time' id: 280 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 00:00:06.2668 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Open exit' id: 290 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 00:00:06.2668 [AISCGWHttp.InfoController.Get:259] Debug: StatusCode: 200, ReasonPhrase: 'OK', Version: 1.1, Content: System.Net.Http.StringContent, Headers:
+{
+  Content-Type: application/json; charset=utf-8
+} 
+2019-12-12 00:00:06.2668 [AISCGWHttp.InfoController.Get:260] Debug: {"address":"Москва, Ходынский б-р д.1","note":"Инвалиды I и II Группа бесплатно. Нужно обратиться к диспетчеру парковки с документами.","name":"ДС \"Мегаспорт\"","serviceTypes":{"tickets":true,"subscription":false,"subscriptionWithSpace":false,"reservation":false},"phone":"+7-495-643-1818","levels":3,"places":[{"id":"5001","level":0,"name":"MS PARKING","total":700,"handicappedTotal":70,"totalFree":152,"handicappedFree":70},{"id":"11","level":1,"name":"Floor 1","total":0,"handicappedTotal":0,"totalFree":0,"handicappedFree":0},{"id":"12","level":2,"name":"Floor 2","total":0,"handicappedTotal":0,"totalFree":0,"handicappedFree":0}],"tariff":"50 рублей в час, 350 рублей суточный. В день Мероприятия 400 рублей за 7 часов с момента въезда на парковку","isWork":true,"schedule":"Круглосуточно","parkingDocMask":"[0-9]{26}","lost":false,"eTicket":false,"priceRange":{"ticket":{"min":50,"max":300000},"subscription":{"min":0,"max":0}},"vehicleType":["car"]} 
+2019-12-12 00:00:06.2668 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 00:00:06.5480 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 00:00:06.5480 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 00:00:06.5480 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 00:00:06.5637 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111qaMb/info 
+2019-12-12 00:00:06.5637 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 00:00:06.6106 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 00:00:06.6106 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 00:00:06.6262 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 00:00:06.6418 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111qaAZ/info 
+2019-12-12 00:00:06.6418 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 00:00:06.8607 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 00:00:06.8607 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 00:00:06.8918 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 00:00:06.9074 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111qaAS/info 
+2019-12-12 00:00:06.9074 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 00:00:07.2356 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 00:00:07.2356 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 00:00:07.2356 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 00:00:07.2512 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111qaAS/info 
+2019-12-12 00:00:07.2512 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 00:00:07.4856 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 00:00:07.4856 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 00:00:07.4856 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 00:00:07.5013 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111qa!/info 
+2019-12-12 00:00:07.5013 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 00:00:07.5481 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 00:00:07.5637 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 00:00:07.5637 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 00:00:07.5794 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111qaM/info 
+2019-12-12 00:00:07.5794 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 00:00:07.6263 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 00:00:07.6263 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 00:00:07.6263 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 00:00:07.6575 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111qaM/info 
+2019-12-12 00:00:07.6575 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 00:02:08.3401 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 00:02:08.3401 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 00:02:08.3401 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 00:02:08.3714 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111qaM/info 
+2019-12-12 00:02:08.3714 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 00:02:08.5902 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 00:02:08.5902 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 00:02:08.5902 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 00:02:08.6058 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111qaGG/info 
+2019-12-12 00:02:08.6058 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 00:34:26.8148 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 00:34:26.8148 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 00:34:26.8148 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 00:34:26.8304 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/5001/info 
+2019-12-12 00:34:27.9086 [AISCGWHttp.InfoController.Get:63] Debug: parkingId: 5001, lang: ru 
+2019-12-12 00:34:28.7680 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Pre-booked' id: 0 type: 0 max: 0 present: 0 free: 0 status: 1 'Occupied' 
+2019-12-12 00:34:28.7680 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Not reserved' id: 1 type: 0 max: 630 present: 548 free: 82 status: 0 'Free' 
+2019-12-12 00:34:28.7680 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Reserved' id: 2 type: 0 max: 70 present: 0 free: 70 status: 0 'Free' 
+2019-12-12 00:34:28.7680 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Total' id: 3 type: 0 max: 700 present: 548 free: 152 status: 0 'Free' 
+2019-12-12 00:34:28.7680 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Floor 1' id: 11 type: 1 max: 0 present: 0 free: 0 status: 1 'Occupied' 
+2019-12-12 00:34:28.7680 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Floor 2' id: 12 type: 1 max: 0 present: 0 free: 0 status: 1 'Occupied' 
+2019-12-12 00:34:28.7680 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Floor 3' id: 13 type: 1 max: 0 present: 0 free: 0 status: 1 'Occupied' 
+2019-12-12 00:34:28.7680 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Floor 4' id: 14 type: 1 max: 0 present: 0 free: 0 status: 1 'Occupied' 
+2019-12-12 00:34:28.7680 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Shortterm Parker in' id: 101 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 00:34:28.7680 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Season Card in' id: 102 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 00:34:28.7680 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Congress Card in' id: 103 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 00:34:28.7680 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Parking Cheque in' id: 104 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 00:34:28.7680 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Congress Cheque in' id: 105 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 00:34:28.7680 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Value Card in' id: 106 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 00:34:28.7680 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Operator Card in' id: 108 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 00:34:28.7680 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Service Card in' id: 109 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 00:34:28.7680 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Entry reserved' id: 110 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 00:34:28.7680 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Entry not  reserv.' id: 120 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 00:34:28.7680 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Man. open in' id: 130 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 00:34:28.7680 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Locked in' id: 140 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 00:34:28.7680 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Brok.Barrier in' id: 150 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 00:34:28.7680 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Open Entry' id: 190 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 00:34:28.7680 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Shortterm Parker out' id: 201 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 00:34:28.7680 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Season Card out' id: 202 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 00:34:28.7680 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Congress Card out' id: 203 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 00:34:28.7680 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Parking Cheque out' id: 204 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 00:34:28.7680 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Season Cheque out' id: 205 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 00:34:28.7837 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Value Card out' id: 206 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 00:34:28.7837 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Operator Card out' id: 208 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 00:34:28.7837 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Service Card out' id: 209 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 00:34:28.7837 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Exit reserved' id: 210 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 00:34:28.7837 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Exit not reserved' id: 220 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 00:34:28.7837 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Man. open out' id: 230 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 00:34:28.7837 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Locked out' id: 240 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 00:34:28.7837 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Brok. Barrier out' id: 250 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 00:34:28.7837 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Pass. in grace time' id: 280 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 00:34:28.7837 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Open exit' id: 290 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 00:34:28.7837 [AISCGWHttp.InfoController.Get:259] Debug: StatusCode: 200, ReasonPhrase: 'OK', Version: 1.1, Content: System.Net.Http.StringContent, Headers:
+{
+  Content-Type: application/json; charset=utf-8
+} 
+2019-12-12 00:34:28.7837 [AISCGWHttp.InfoController.Get:260] Debug: {"address":"Москва, Ходынский б-р д.1","note":"Инвалиды I и II Группа бесплатно. Нужно обратиться к диспетчеру парковки с документами.","name":"ДС \"Мегаспорт\"","serviceTypes":{"tickets":true,"subscription":false,"subscriptionWithSpace":false,"reservation":false},"phone":"+7-495-643-1818","levels":3,"places":[{"id":"5001","level":0,"name":"MS PARKING","total":700,"handicappedTotal":70,"totalFree":152,"handicappedFree":70},{"id":"11","level":1,"name":"Floor 1","total":0,"handicappedTotal":0,"totalFree":0,"handicappedFree":0},{"id":"12","level":2,"name":"Floor 2","total":0,"handicappedTotal":0,"totalFree":0,"handicappedFree":0}],"tariff":"50 рублей в час, 350 рублей суточный. В день Мероприятия 400 рублей за 7 часов с момента въезда на парковку","isWork":true,"schedule":"Круглосуточно","parkingDocMask":"[0-9]{26}","lost":false,"eTicket":false,"priceRange":{"ticket":{"min":50,"max":300000},"subscription":{"min":0,"max":0}},"vehicleType":["car"]} 
+2019-12-12 00:34:28.7837 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 03:00:00.5328 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 03:00:00.5328 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 03:00:00.5484 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 03:00:00.5640 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/323A/info 
+2019-12-12 03:00:00.5640 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 03:00:04.3925 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 03:00:04.3925 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 03:00:04.3925 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 03:00:04.4081 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111A/info 
+2019-12-12 03:00:04.4081 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 03:00:04.5175 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 03:00:04.5175 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 03:00:04.5175 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 03:00:04.5331 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111A/info 
+2019-12-12 03:00:04.5331 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 03:00:04.9238 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 03:00:04.9238 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 03:00:04.9238 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 03:00:04.9394 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111A/info 
+2019-12-12 03:00:04.9394 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 03:00:05.0019 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 03:00:05.0019 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 03:00:05.0019 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 03:00:05.0175 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111ZZZ/info 
+2019-12-12 03:00:05.0175 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 03:00:05.0644 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 03:00:05.0644 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 03:00:05.0644 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 03:00:05.0957 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111ZZZ/info 
+2019-12-12 03:00:05.0957 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 03:00:05.4707 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 03:00:05.4707 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 03:00:05.4707 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 03:00:05.4863 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111ZZZ/info 
+2019-12-12 03:00:05.4863 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 03:00:05.8301 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 03:00:05.8301 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 03:00:05.8457 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 03:00:05.8614 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111new/info 
+2019-12-12 03:00:05.8614 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 03:00:06.4864 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 03:00:06.4864 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 03:00:06.4864 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 03:00:06.5177 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111new/info 
+2019-12-12 03:00:06.5177 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 03:00:06.5958 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 03:00:06.6115 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 03:00:06.6583 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 03:00:06.6739 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111www/info 
+2019-12-12 03:00:06.6739 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 03:00:07.1740 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 03:00:07.1740 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 03:00:07.1740 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 03:00:07.1896 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111qa/info 
+2019-12-12 03:00:07.1896 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 03:00:07.5334 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 03:00:07.5334 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 03:00:07.5334 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 03:00:07.5646 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111qaZ/info 
+2019-12-12 03:00:07.5646 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 03:00:07.6115 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 03:00:07.6115 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 03:00:07.6115 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 03:00:07.6271 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111qaM/info 
+2019-12-12 03:00:07.6271 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 03:00:08.4240 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 03:00:08.4240 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 03:00:08.4240 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 03:00:08.4397 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111qaMb/info 
+2019-12-12 03:00:08.4397 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 03:00:08.4866 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 03:00:08.4866 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 03:00:08.4866 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 03:00:08.5178 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111qaAZ/info 
+2019-12-12 03:00:08.5178 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 03:00:08.9085 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 03:00:08.9085 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 03:00:08.9085 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 03:00:08.9397 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111qaAS/info 
+2019-12-12 03:00:08.9397 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 03:00:09.5179 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 03:00:09.5179 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 03:00:09.5179 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 03:00:09.5492 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111qaAS/info 
+2019-12-12 03:00:09.5492 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 03:00:09.7367 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 03:00:09.7367 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 03:00:09.7367 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 03:00:09.7679 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111qa!/info 
+2019-12-12 03:00:09.7679 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 03:00:09.8148 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 03:00:09.8148 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 03:00:09.8148 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 03:00:09.8304 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111qaM/info 
+2019-12-12 03:00:09.8304 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 03:00:09.8773 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 03:00:09.8773 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 03:00:09.8930 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 03:00:09.9086 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111qaM/info 
+2019-12-12 03:00:09.9086 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 03:02:10.5756 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 03:02:10.5756 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 03:02:10.5756 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 03:02:10.5912 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111qaM/info 
+2019-12-12 03:02:10.5912 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 03:02:10.7787 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 03:02:10.7787 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 03:02:10.7787 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 03:02:10.8099 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111qaGG/info 
+2019-12-12 03:02:10.8099 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 06:00:00.6975 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 06:00:00.6975 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 06:00:00.6975 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 06:00:00.7288 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/323A/info 
+2019-12-12 06:00:00.7288 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 06:00:05.9323 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 06:00:05.9323 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 06:00:05.9323 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 06:00:05.9636 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111A/info 
+2019-12-12 06:00:05.9636 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 06:00:06.0105 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 06:00:06.0105 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 06:00:06.0105 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 06:00:06.0417 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111A/info 
+2019-12-12 06:00:06.0417 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 06:00:06.3543 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 06:00:06.3543 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 06:00:06.3543 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 06:00:06.3855 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111A/info 
+2019-12-12 06:00:06.3855 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 06:00:06.4324 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 06:00:06.4324 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 06:00:06.4324 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 06:00:06.4636 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111ZZZ/info 
+2019-12-12 06:00:06.4636 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 06:00:06.5105 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 06:00:06.5105 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 06:00:06.5261 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 06:00:06.5418 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111ZZZ/info 
+2019-12-12 06:00:06.5418 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 06:00:06.8699 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 06:00:06.8699 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 06:00:06.8699 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 06:00:06.8855 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111ZZZ/info 
+2019-12-12 06:00:06.8855 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 06:00:07.2137 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 06:00:07.2137 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 06:00:07.2293 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 06:00:07.2449 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111new/info 
+2019-12-12 06:00:07.2449 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 06:00:07.5575 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 06:00:07.5575 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 06:00:07.5731 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 06:00:07.5887 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111new/info 
+2019-12-12 06:00:07.5887 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 06:00:07.6356 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 06:00:07.6515 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 06:00:07.6515 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 06:00:07.6669 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111www/info 
+2019-12-12 06:00:07.6669 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 06:00:07.8700 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 06:00:07.8700 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 06:00:07.8700 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 06:00:07.9013 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111qa/info 
+2019-12-12 06:00:07.9013 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 06:00:08.1200 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 06:00:08.1200 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 06:00:08.1356 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 06:00:08.1513 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111qaZ/info 
+2019-12-12 06:00:08.1513 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 06:00:08.1982 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 06:00:08.1982 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 06:00:08.1982 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 06:00:08.2295 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111qaM/info 
+2019-12-12 06:00:08.2295 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 06:00:08.5420 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 06:00:08.5420 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 06:00:08.5576 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 06:00:08.5732 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111qaMb/info 
+2019-12-12 06:00:08.5732 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 06:00:08.6201 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 06:00:08.6201 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 06:00:08.6201 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 06:00:08.6513 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111qaAZ/info 
+2019-12-12 06:00:08.6513 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 06:00:08.8389 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 06:00:08.8389 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 06:00:08.8389 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 06:00:08.8701 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111qaAS/info 
+2019-12-12 06:00:08.8701 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 06:00:09.1983 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 06:00:09.2139 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 06:00:09.2139 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 06:00:09.2295 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111qaAS/info 
+2019-12-12 06:00:09.2295 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 06:00:09.4327 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 06:00:09.4327 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 06:00:09.4327 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 06:00:09.4639 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111qa!/info 
+2019-12-12 06:00:09.4639 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 06:00:09.5108 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 06:00:09.5108 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 06:00:09.5108 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 06:00:09.5264 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111qaM/info 
+2019-12-12 06:00:09.5420 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 06:00:09.5889 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 06:00:09.5889 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 06:00:09.5889 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 06:00:09.6045 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111qaM/info 
+2019-12-12 06:00:09.6045 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 06:02:10.3202 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 06:02:10.3202 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 06:02:10.3202 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 06:02:10.3358 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111qaM/info 
+2019-12-12 06:02:10.3358 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 06:02:10.5233 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 06:02:10.5233 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 06:02:10.5389 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 06:02:10.5546 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111qaGG/info 
+2019-12-12 06:02:10.5546 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 07:39:20.9789 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 07:39:20.9789 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 07:39:20.9789 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 07:39:20.9946 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/5001/info 
+2019-12-12 07:39:22.0572 [AISCGWHttp.InfoController.Get:63] Debug: parkingId: 5001, lang: ru 
+2019-12-12 07:39:22.9323 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Pre-booked' id: 0 type: 0 max: 0 present: 0 free: 0 status: 1 'Occupied' 
+2019-12-12 07:39:22.9323 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Not reserved' id: 1 type: 0 max: 630 present: 570 free: 60 status: 0 'Free' 
+2019-12-12 07:39:22.9323 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Reserved' id: 2 type: 0 max: 70 present: 0 free: 70 status: 0 'Free' 
+2019-12-12 07:39:22.9323 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Total' id: 3 type: 0 max: 700 present: 570 free: 130 status: 0 'Free' 
+2019-12-12 07:39:22.9323 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Floor 1' id: 11 type: 1 max: 0 present: 0 free: 0 status: 1 'Occupied' 
+2019-12-12 07:39:22.9323 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Floor 2' id: 12 type: 1 max: 0 present: 0 free: 0 status: 1 'Occupied' 
+2019-12-12 07:39:22.9323 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Floor 3' id: 13 type: 1 max: 0 present: 0 free: 0 status: 1 'Occupied' 
+2019-12-12 07:39:22.9323 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Floor 4' id: 14 type: 1 max: 0 present: 0 free: 0 status: 1 'Occupied' 
+2019-12-12 07:39:22.9323 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Shortterm Parker in' id: 101 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 07:39:22.9323 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Season Card in' id: 102 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 07:39:22.9323 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Congress Card in' id: 103 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 07:39:22.9323 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Parking Cheque in' id: 104 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 07:39:22.9323 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Congress Cheque in' id: 105 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 07:39:22.9323 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Value Card in' id: 106 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 07:39:22.9323 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Operator Card in' id: 108 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 07:39:22.9323 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Service Card in' id: 109 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 07:39:22.9323 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Entry reserved' id: 110 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 07:39:22.9323 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Entry not  reserv.' id: 120 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 07:39:22.9323 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Man. open in' id: 130 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 07:39:22.9323 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Locked in' id: 140 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 07:39:22.9323 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Brok.Barrier in' id: 150 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 07:39:22.9323 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Open Entry' id: 190 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 07:39:22.9323 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Shortterm Parker out' id: 201 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 07:39:22.9323 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Season Card out' id: 202 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 07:39:22.9323 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Congress Card out' id: 203 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 07:39:22.9323 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Parking Cheque out' id: 204 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 07:39:22.9323 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Season Cheque out' id: 205 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 07:39:22.9323 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Value Card out' id: 206 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 07:39:22.9323 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Operator Card out' id: 208 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 07:39:22.9323 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Service Card out' id: 209 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 07:39:22.9323 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Exit reserved' id: 210 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 07:39:22.9323 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Exit not reserved' id: 220 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 07:39:22.9323 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Man. open out' id: 230 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 07:39:22.9323 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Locked out' id: 240 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 07:39:22.9323 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Brok. Barrier out' id: 250 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 07:39:22.9323 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Pass. in grace time' id: 280 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 07:39:22.9323 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Open exit' id: 290 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 07:39:22.9323 [AISCGWHttp.InfoController.Get:259] Debug: StatusCode: 200, ReasonPhrase: 'OK', Version: 1.1, Content: System.Net.Http.StringContent, Headers:
+{
+  Content-Type: application/json; charset=utf-8
+} 
+2019-12-12 07:39:22.9323 [AISCGWHttp.InfoController.Get:260] Debug: {"address":"Москва, Ходынский б-р д.1","note":"Инвалиды I и II Группа бесплатно. Нужно обратиться к диспетчеру парковки с документами.","name":"ДС \"Мегаспорт\"","serviceTypes":{"tickets":true,"subscription":false,"subscriptionWithSpace":false,"reservation":false},"phone":"+7-495-643-1818","levels":3,"places":[{"id":"5001","level":0,"name":"MS PARKING","total":700,"handicappedTotal":70,"totalFree":130,"handicappedFree":70},{"id":"11","level":1,"name":"Floor 1","total":0,"handicappedTotal":0,"totalFree":0,"handicappedFree":0},{"id":"12","level":2,"name":"Floor 2","total":0,"handicappedTotal":0,"totalFree":0,"handicappedFree":0}],"tariff":"50 рублей в час, 350 рублей суточный. В день Мероприятия 400 рублей за 7 часов с момента въезда на парковку","isWork":true,"schedule":"Круглосуточно","parkingDocMask":"[0-9]{26}","lost":false,"eTicket":false,"priceRange":{"ticket":{"min":50,"max":300000},"subscription":{"min":0,"max":0}},"vehicleType":["car"]} 
+2019-12-12 07:39:22.9323 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 09:00:00.2184 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 09:00:00.2184 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 09:00:00.2184 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 09:00:00.2496 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/323A/info 
+2019-12-12 09:00:00.2496 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 09:00:01.2028 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 09:00:01.2028 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 09:00:01.2028 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 09:00:01.2185 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111A/info 
+2019-12-12 09:00:01.2185 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 09:00:01.2810 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 09:00:01.2810 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 09:00:01.2810 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 09:00:01.3435 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111A/info 
+2019-12-12 09:00:01.3435 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 09:00:01.7966 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 09:00:01.7966 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 09:00:01.7966 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 09:00:01.8122 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111A/info 
+2019-12-12 09:00:01.8122 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 09:00:01.9373 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 09:00:01.9373 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 09:00:01.9373 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 09:00:01.9529 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111ZZZ/info 
+2019-12-12 09:00:01.9529 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 09:00:02.0154 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 09:00:02.0154 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 09:00:02.0154 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 09:00:02.0310 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111ZZZ/info 
+2019-12-12 09:00:02.0310 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 09:00:02.3748 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 09:00:02.3748 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 09:00:02.3748 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 09:00:02.4060 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111ZZZ/info 
+2019-12-12 09:00:02.4060 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 09:00:02.7967 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 09:00:02.7967 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 09:00:02.7967 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 09:00:02.8748 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111new/info 
+2019-12-12 09:00:02.8748 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 09:00:03.2030 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 09:00:03.2030 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 09:00:03.2030 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 09:00:03.2342 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111new/info 
+2019-12-12 09:00:03.2342 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 09:00:03.3593 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 09:00:03.3593 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 09:00:03.3593 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 09:00:03.3749 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111www/info 
+2019-12-12 09:00:03.3749 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 09:00:03.7812 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 09:00:03.7812 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 09:00:03.7812 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 09:00:03.8124 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111qa/info 
+2019-12-12 09:00:03.8124 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 09:00:04.0156 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 09:00:04.0156 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 09:00:04.0156 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 09:00:04.0312 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111qaZ/info 
+2019-12-12 09:00:04.0312 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 09:00:04.0937 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 09:00:04.0937 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 09:00:04.0937 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 09:00:04.1875 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111qaM/info 
+2019-12-12 09:00:04.1875 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 09:00:04.5156 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 09:00:04.5156 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 09:00:04.5156 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 09:00:04.5469 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111qaMb/info 
+2019-12-12 09:00:04.5469 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 09:00:04.6094 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 09:00:04.6094 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 09:00:04.6094 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 09:00:04.6250 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111qaAZ/info 
+2019-12-12 09:00:04.6250 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 09:00:04.8438 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 09:00:04.8438 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 09:00:04.8438 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 09:00:04.8750 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111qaAS/info 
+2019-12-12 09:00:04.8750 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 09:00:05.4063 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 09:00:05.4063 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 09:00:05.4063 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 09:00:05.4376 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111qaAS/info 
+2019-12-12 09:00:05.4376 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 09:00:05.6407 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 09:00:05.6407 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 09:00:05.6407 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 09:00:05.6563 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111qa!/info 
+2019-12-12 09:00:05.6563 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 09:00:05.7188 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 09:00:05.7188 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 09:00:05.7188 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 09:00:05.7345 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111qaM/info 
+2019-12-12 09:00:05.7345 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 09:00:05.7970 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 09:00:05.7970 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 09:00:05.7970 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 09:00:05.8282 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111qaM/info 
+2019-12-12 09:00:05.8282 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 09:02:06.7643 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 09:02:06.7643 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 09:02:06.7643 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 09:02:06.7956 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111qaM/info 
+2019-12-12 09:02:06.7956 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 09:02:06.9987 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 09:02:06.9987 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 09:02:06.9987 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 09:02:07.0143 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111qaGG/info 
+2019-12-12 09:02:07.0143 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 09:47:26.3759 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 09:47:26.3759 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 09:47:26.3915 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 09:47:26.3915 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/5001/info 
+2019-12-12 09:47:27.5010 [AISCGWHttp.InfoController.Get:63] Debug: parkingId: 5001, lang: ru 
+2019-12-12 09:47:28.4229 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Pre-booked' id: 0 type: 0 max: 0 present: 0 free: 0 status: 1 'Occupied' 
+2019-12-12 09:47:28.4229 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Not reserved' id: 1 type: 0 max: 630 present: 610 free: 20 status: 0 'Free' 
+2019-12-12 09:47:28.4229 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Reserved' id: 2 type: 0 max: 70 present: 0 free: 70 status: 0 'Free' 
+2019-12-12 09:47:28.4229 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Total' id: 3 type: 0 max: 700 present: 610 free: 90 status: 0 'Free' 
+2019-12-12 09:47:28.4229 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Floor 1' id: 11 type: 1 max: 0 present: 0 free: 0 status: 1 'Occupied' 
+2019-12-12 09:47:28.4229 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Floor 2' id: 12 type: 1 max: 0 present: 0 free: 0 status: 1 'Occupied' 
+2019-12-12 09:47:28.4229 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Floor 3' id: 13 type: 1 max: 0 present: 0 free: 0 status: 1 'Occupied' 
+2019-12-12 09:47:28.4229 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Floor 4' id: 14 type: 1 max: 0 present: 0 free: 0 status: 1 'Occupied' 
+2019-12-12 09:47:28.4229 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Shortterm Parker in' id: 101 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 09:47:28.4229 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Season Card in' id: 102 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 09:47:28.4385 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Congress Card in' id: 103 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 09:47:28.4385 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Parking Cheque in' id: 104 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 09:47:28.4385 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Congress Cheque in' id: 105 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 09:47:28.4385 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Value Card in' id: 106 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 09:47:28.4385 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Operator Card in' id: 108 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 09:47:28.4385 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Service Card in' id: 109 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 09:47:28.4385 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Entry reserved' id: 110 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 09:47:28.4385 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Entry not  reserv.' id: 120 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 09:47:28.4385 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Man. open in' id: 130 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 09:47:28.4385 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Locked in' id: 140 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 09:47:28.4385 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Brok.Barrier in' id: 150 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 09:47:28.4385 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Open Entry' id: 190 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 09:47:28.4385 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Shortterm Parker out' id: 201 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 09:47:28.4385 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Season Card out' id: 202 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 09:47:28.4385 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Congress Card out' id: 203 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 09:47:28.4385 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Parking Cheque out' id: 204 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 09:47:28.4385 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Season Cheque out' id: 205 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 09:47:28.4385 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Value Card out' id: 206 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 09:47:28.4385 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Operator Card out' id: 208 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 09:47:28.4385 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Service Card out' id: 209 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 09:47:28.4385 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Exit reserved' id: 210 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 09:47:28.4385 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Exit not reserved' id: 220 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 09:47:28.4385 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Man. open out' id: 230 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 09:47:28.4385 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Locked out' id: 240 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 09:47:28.4385 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Brok. Barrier out' id: 250 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 09:47:28.4385 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Pass. in grace time' id: 280 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 09:47:28.4385 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Open exit' id: 290 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 09:47:28.4385 [AISCGWHttp.InfoController.Get:259] Debug: StatusCode: 200, ReasonPhrase: 'OK', Version: 1.1, Content: System.Net.Http.StringContent, Headers:
+{
+  Content-Type: application/json; charset=utf-8
+} 
+2019-12-12 09:47:28.4385 [AISCGWHttp.InfoController.Get:260] Debug: {"address":"Москва, Ходынский б-р д.1","note":"Инвалиды I и II Группа бесплатно. Нужно обратиться к диспетчеру парковки с документами.","name":"ДС \"Мегаспорт\"","serviceTypes":{"tickets":true,"subscription":false,"subscriptionWithSpace":false,"reservation":false},"phone":"+7-495-643-1818","levels":3,"places":[{"id":"5001","level":0,"name":"MS PARKING","total":700,"handicappedTotal":70,"totalFree":90,"handicappedFree":70},{"id":"11","level":1,"name":"Floor 1","total":0,"handicappedTotal":0,"totalFree":0,"handicappedFree":0},{"id":"12","level":2,"name":"Floor 2","total":0,"handicappedTotal":0,"totalFree":0,"handicappedFree":0}],"tariff":"50 рублей в час, 350 рублей суточный. В день Мероприятия 400 рублей за 7 часов с момента въезда на парковку","isWork":true,"schedule":"Круглосуточно","parkingDocMask":"[0-9]{26}","lost":false,"eTicket":false,"priceRange":{"ticket":{"min":50,"max":300000},"subscription":{"min":0,"max":0}},"vehicleType":["car"]} 
+2019-12-12 09:47:28.4385 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 11:53:47.0161 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 11:53:47.0161 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 11:53:47.0161 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 11:53:47.0317 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/5001/info 
+2019-12-12 11:53:48.0943 [AISCGWHttp.InfoController.Get:63] Debug: parkingId: 5001, lang: ru 
+2019-12-12 11:53:48.9849 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Pre-booked' id: 0 type: 0 max: 0 present: 0 free: 0 status: 1 'Occupied' 
+2019-12-12 11:53:48.9849 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Not reserved' id: 1 type: 0 max: 630 present: 628 free: 2 status: 0 'Free' 
+2019-12-12 11:53:48.9849 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Reserved' id: 2 type: 0 max: 70 present: 0 free: 70 status: 0 'Free' 
+2019-12-12 11:53:48.9849 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Total' id: 3 type: 0 max: 700 present: 628 free: 72 status: 0 'Free' 
+2019-12-12 11:53:48.9849 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Floor 1' id: 11 type: 1 max: 0 present: 0 free: 0 status: 1 'Occupied' 
+2019-12-12 11:53:48.9849 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Floor 2' id: 12 type: 1 max: 0 present: 0 free: 0 status: 1 'Occupied' 
+2019-12-12 11:53:48.9849 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Floor 3' id: 13 type: 1 max: 0 present: 0 free: 0 status: 1 'Occupied' 
+2019-12-12 11:53:48.9849 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Floor 4' id: 14 type: 1 max: 0 present: 0 free: 0 status: 1 'Occupied' 
+2019-12-12 11:53:48.9849 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Shortterm Parker in' id: 101 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 11:53:48.9849 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Season Card in' id: 102 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 11:53:48.9849 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Congress Card in' id: 103 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 11:53:48.9849 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Parking Cheque in' id: 104 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 11:53:48.9849 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Congress Cheque in' id: 105 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 11:53:48.9849 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Value Card in' id: 106 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 11:53:48.9849 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Operator Card in' id: 108 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 11:53:48.9849 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Service Card in' id: 109 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 11:53:48.9849 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Entry reserved' id: 110 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 11:53:48.9849 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Entry not  reserv.' id: 120 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 11:53:48.9849 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Man. open in' id: 130 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 11:53:48.9849 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Locked in' id: 140 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 11:53:48.9849 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Brok.Barrier in' id: 150 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 11:53:48.9849 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Open Entry' id: 190 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 11:53:48.9849 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Shortterm Parker out' id: 201 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 11:53:48.9849 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Season Card out' id: 202 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 11:53:48.9849 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Congress Card out' id: 203 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 11:53:48.9849 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Parking Cheque out' id: 204 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 11:53:48.9849 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Season Cheque out' id: 205 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 11:53:48.9849 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Value Card out' id: 206 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 11:53:48.9849 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Operator Card out' id: 208 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 11:53:48.9849 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Service Card out' id: 209 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 11:53:48.9849 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Exit reserved' id: 210 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 11:53:48.9849 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Exit not reserved' id: 220 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 11:53:48.9849 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Man. open out' id: 230 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 11:53:48.9849 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Locked out' id: 240 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 11:53:48.9849 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Brok. Barrier out' id: 250 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 11:53:48.9849 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Pass. in grace time' id: 280 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 11:53:48.9849 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Open exit' id: 290 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 11:53:48.9849 [AISCGWHttp.InfoController.Get:259] Debug: StatusCode: 200, ReasonPhrase: 'OK', Version: 1.1, Content: System.Net.Http.StringContent, Headers:
+{
+  Content-Type: application/json; charset=utf-8
+} 
+2019-12-12 11:53:48.9849 [AISCGWHttp.InfoController.Get:260] Debug: {"address":"Москва, Ходынский б-р д.1","note":"Инвалиды I и II Группа бесплатно. Нужно обратиться к диспетчеру парковки с документами.","name":"ДС \"Мегаспорт\"","serviceTypes":{"tickets":true,"subscription":false,"subscriptionWithSpace":false,"reservation":false},"phone":"+7-495-643-1818","levels":3,"places":[{"id":"5001","level":0,"name":"MS PARKING","total":700,"handicappedTotal":70,"totalFree":72,"handicappedFree":70},{"id":"11","level":1,"name":"Floor 1","total":0,"handicappedTotal":0,"totalFree":0,"handicappedFree":0},{"id":"12","level":2,"name":"Floor 2","total":0,"handicappedTotal":0,"totalFree":0,"handicappedFree":0}],"tariff":"50 рублей в час, 350 рублей суточный. В день Мероприятия 400 рублей за 7 часов с момента въезда на парковку","isWork":true,"schedule":"Круглосуточно","parkingDocMask":"[0-9]{26}","lost":false,"eTicket":false,"priceRange":{"ticket":{"min":50,"max":300000},"subscription":{"min":0,"max":0}},"vehicleType":["car"]} 
+2019-12-12 11:53:48.9849 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 11:53:51.8290 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 11:53:51.8290 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 11:53:51.8446 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 11:53:51.8446 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/parking/5001/session/cost 
+2019-12-12 11:53:51.8446 [AISCGWHttp.CostController.Post:60] Debug: ParkingId: 5001 Request: 'costTime':'2019-12-12T11:53:51.6470000+03:00','parkingDoc':''number':'716948510989806555','serialNumber':''' 
+2019-12-12 11:53:52.0790 [AISCGWHttp.CostController.Post:125] Debug: Найден EPAN: '02405121891011039339681240??' 
+2019-12-12 11:53:52.2352 [AISCGWHttp.CostController.Post:176] Debug: Device: '701' Computer: '1891' 
+2019-12-12 11:53:52.6259 [AISCGWHttp.CostController.Post:183] Debug: AmountDue: '365000' 
+2019-12-12 11:53:52.6259 [AISCGWHttp.CostController.Post:212] Trace: Response: {"sessionId":"02405121891011039339681240","state":"started","cost":365000,"currency":"RUB","costTime":"2019-12-12T11:53:52.625+03:00","startTime":"2019-12-05T18:55:24.000+03:00","durationPaymentTime":600,"durationdeparturetime":1500,"transactions":[],"discounts":[],"qrString":"02405121891011039339681240??","fineForLost":0} 
+2019-12-12 11:53:52.6259 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 11:53:52.8759 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 11:53:52.8759 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 11:53:52.8759 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 11:53:52.8916 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/5001/info 
+2019-12-12 11:53:52.8916 [AISCGWHttp.InfoController.Get:63] Debug: parkingId: 5001, lang: ru 
+2019-12-12 11:53:53.6572 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Pre-booked' id: 0 type: 0 max: 0 present: 0 free: 0 status: 1 'Occupied' 
+2019-12-12 11:53:53.6572 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Not reserved' id: 1 type: 0 max: 630 present: 628 free: 2 status: 0 'Free' 
+2019-12-12 11:53:53.6572 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Reserved' id: 2 type: 0 max: 70 present: 0 free: 70 status: 0 'Free' 
+2019-12-12 11:53:53.6572 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Total' id: 3 type: 0 max: 700 present: 628 free: 72 status: 0 'Free' 
+2019-12-12 11:53:53.6572 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Floor 1' id: 11 type: 1 max: 0 present: 0 free: 0 status: 1 'Occupied' 
+2019-12-12 11:53:53.6572 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Floor 2' id: 12 type: 1 max: 0 present: 0 free: 0 status: 1 'Occupied' 
+2019-12-12 11:53:53.6572 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Floor 3' id: 13 type: 1 max: 0 present: 0 free: 0 status: 1 'Occupied' 
+2019-12-12 11:53:53.6572 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Floor 4' id: 14 type: 1 max: 0 present: 0 free: 0 status: 1 'Occupied' 
+2019-12-12 11:53:53.6572 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Shortterm Parker in' id: 101 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 11:53:53.6572 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Season Card in' id: 102 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 11:53:53.6572 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Congress Card in' id: 103 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 11:53:53.6572 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Parking Cheque in' id: 104 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 11:53:53.6572 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Congress Cheque in' id: 105 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 11:53:53.6572 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Value Card in' id: 106 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 11:53:53.6572 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Operator Card in' id: 108 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 11:53:53.6572 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Service Card in' id: 109 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 11:53:53.6572 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Entry reserved' id: 110 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 11:53:53.6572 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Entry not  reserv.' id: 120 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 11:53:53.6572 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Man. open in' id: 130 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 11:53:53.6572 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Locked in' id: 140 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 11:53:53.6572 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Brok.Barrier in' id: 150 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 11:53:53.6572 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Open Entry' id: 190 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 11:53:53.6572 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Shortterm Parker out' id: 201 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 11:53:53.6572 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Season Card out' id: 202 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 11:53:53.6572 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Congress Card out' id: 203 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 11:53:53.6572 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Parking Cheque out' id: 204 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 11:53:53.6572 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Season Cheque out' id: 205 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 11:53:53.6572 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Value Card out' id: 206 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 11:53:53.6572 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Operator Card out' id: 208 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 11:53:53.6572 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Service Card out' id: 209 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 11:53:53.6572 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Exit reserved' id: 210 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 11:53:53.6572 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Exit not reserved' id: 220 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 11:53:53.6572 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Man. open out' id: 230 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 11:53:53.6572 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Locked out' id: 240 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 11:53:53.6572 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Brok. Barrier out' id: 250 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 11:53:53.6572 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Pass. in grace time' id: 280 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 11:53:53.6572 [AISCGWHttp.InfoController.Get:58] Trace: Counter 'Open exit' id: 290 type: 2 max: 0 present: 0 free: 0 status: 0 '' 
+2019-12-12 11:53:53.6572 [AISCGWHttp.InfoController.Get:259] Debug: StatusCode: 200, ReasonPhrase: 'OK', Version: 1.1, Content: System.Net.Http.StringContent, Headers:
+{
+  Content-Type: application/json; charset=utf-8
+} 
+2019-12-12 11:53:53.6729 [AISCGWHttp.InfoController.Get:260] Debug: {"address":"Москва, Ходынский б-р д.1","note":"Инвалиды I и II Группа бесплатно. Нужно обратиться к диспетчеру парковки с документами.","name":"ДС \"Мегаспорт\"","serviceTypes":{"tickets":true,"subscription":false,"subscriptionWithSpace":false,"reservation":false},"phone":"+7-495-643-1818","levels":3,"places":[{"id":"5001","level":0,"name":"MS PARKING","total":700,"handicappedTotal":70,"totalFree":72,"handicappedFree":70},{"id":"11","level":1,"name":"Floor 1","total":0,"handicappedTotal":0,"totalFree":0,"handicappedFree":0},{"id":"12","level":2,"name":"Floor 2","total":0,"handicappedTotal":0,"totalFree":0,"handicappedFree":0}],"tariff":"50 рублей в час, 350 рублей суточный. В день Мероприятия 400 рублей за 7 часов с момента въезда на парковку","isWork":true,"schedule":"Круглосуточно","parkingDocMask":"[0-9]{26}","lost":false,"eTicket":false,"priceRange":{"ticket":{"min":50,"max":300000},"subscription":{"min":0,"max":0}},"vehicleType":["car"]} 
+2019-12-12 11:53:53.6729 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 12:00:00.2495 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 12:00:00.2495 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 12:00:00.2495 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 12:00:00.2765 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/323A/info 
+2019-12-12 12:00:00.2765 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 12:00:01.4465 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 12:00:01.4465 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 12:00:01.4465 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 12:00:01.4725 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111A/info 
+2019-12-12 12:00:01.4735 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 12:00:01.5336 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 12:00:01.5336 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 12:00:01.5356 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 12:00:01.5606 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111A/info 
+2019-12-12 12:00:01.5606 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 12:00:01.9539 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 12:00:01.9539 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 12:00:01.9539 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 12:00:01.9789 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111A/info 
+2019-12-12 12:00:01.9789 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 12:00:02.0330 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 12:00:02.0330 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 12:00:02.0330 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 12:00:02.1261 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111ZZZ/info 
+2019-12-12 12:00:02.1261 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 12:00:02.1801 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 12:00:02.1801 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 12:00:02.1801 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 12:00:02.2081 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111ZZZ/info 
+2019-12-12 12:00:02.2081 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 12:00:02.5735 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 12:00:02.5735 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 12:00:02.5735 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 12:00:02.6025 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111ZZZ/info 
+2019-12-12 12:00:02.6025 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 12:00:02.9608 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 12:00:02.9608 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 12:00:02.9608 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 12:00:02.9878 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111new/info 
+2019-12-12 12:00:02.9888 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 12:00:03.3761 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 12:00:03.3761 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 12:00:03.3761 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 12:00:03.4011 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111new/info 
+2019-12-12 12:00:03.4011 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 12:00:03.4532 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 12:00:03.4532 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 12:00:03.4532 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 12:00:03.4792 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111www/info 
+2019-12-12 12:00:03.4792 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 12:00:03.7114 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 12:00:03.7114 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 12:00:03.7114 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 12:00:03.7545 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111qa/info 
+2019-12-12 12:00:03.7545 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 12:00:03.9586 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 12:00:03.9586 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 12:00:03.9586 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 12:00:03.9856 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111qaZ/info 
+2019-12-12 12:00:03.9856 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 12:00:04.0387 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 12:00:04.0387 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 12:00:04.0387 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 12:00:04.0657 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111qaM/info 
+2019-12-12 12:00:04.0657 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 12:00:04.4760 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 12:00:04.4760 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 12:00:04.4760 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 12:00:04.5021 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111qaMb/info 
+2019-12-12 12:00:04.5021 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 12:00:04.5581 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 12:00:04.5581 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 12:00:04.5581 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 12:00:04.5861 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111qaAZ/info 
+2019-12-12 12:00:04.5861 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 12:00:05.0075 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 12:00:05.0075 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 12:00:05.0075 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 12:00:05.0345 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111qaAS/info 
+2019-12-12 12:00:05.0345 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 12:00:05.3749 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 12:00:05.3749 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 12:00:05.3749 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 12:00:05.4028 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111qaAS/info 
+2019-12-12 12:00:05.4028 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 12:00:05.6110 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 12:00:05.6110 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 12:00:05.6110 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 12:00:05.6420 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111qa!/info 
+2019-12-12 12:00:05.6420 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 12:00:05.7101 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 12:00:05.7101 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 12:00:05.7101 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 12:00:05.7571 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111qaM/info 
+2019-12-12 12:00:05.7571 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 12:00:05.8101 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 12:00:05.8101 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 12:00:05.8101 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 12:00:05.8342 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111qaM/info 
+2019-12-12 12:00:05.8342 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 12:01:01.2270 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 12:01:01.2270 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 12:01:01.2270 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 12:01:01.2440 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/parking/5001/session/state 
+2019-12-12 12:01:01.4196 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 12:01:01.4196 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 12:01:01.4196 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 12:01:01.4416 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/parking/5001/session/state 
+2019-12-12 12:01:02.3303 [AISCGWHttp.StateController.Post:61] Debug: ParkingId: 5001 Sessions: "02405121891011019238646620","02405121891011039239726300","02405121891011029266482660","02405121891011029284425690","02405121891011029281276750","02405121891011029284425360","02405121891011029281276480","02405121891011029305365740" 
+2019-12-12 12:01:02.4614 [AISCGWHttp.StateController.Post:61] Debug: ParkingId: 5001 Sessions: "02405121891011019238646620","02405121891011039239726300","02405121891011029266482660","02405121891011029284425690","02405121891011029281276750","02405121891011029284425360","02405121891011029281276480","02405121891011029305365740" 
+2019-12-12 12:01:02.5826 [AISCGWHttp.StateController.Post:134] Trace: Response: [{"sessionId":"02405121891011019238646620","startTime":"2019-08-26T17:57:42.000+03:00","stopTime":null,"transactions":[{"id":"181925","time":"2019-09-19T17:30:59.000+03:00","amount":840000,"type":"bank"},{"id":"181962","time":"2019-09-19T17:55:51.000+03:00","amount":5000,"type":"bank"},{"id":"184892","time":"2019-09-23T16:56:04.000+03:00","amount":140000,"type":"bank"},{"id":"186179","time":"2019-09-24T15:20:20.000+03:00","amount":1000,"type":"bank"}],"discounts":[]},{"sessionId":"02405121891011039239726300","startTime":"2019-08-27T20:10:30.000+03:00","stopTime":null,"transactions":[{"id":"181919","time":"2019-09-19T17:27:31.000+03:00","amount":805000,"type":"bank"},{"id":"181955","time":"2019-09-19T17:53:09.000+03:00","amount":5000,"type":"bank"},{"id":"182018","time":"2019-09-19T18:19:05.000+03:00","amount":5000,"type":"bank"},{"id":"182028","time":"2019-09-19T18:23:02.000+03:00","amount":5000,"type":"bank"},{"id":"187645","time":"2019-09-25T14:33:33.000+03:00","amount":1000,"type":"bank"},{"id":"188226","time":"2019-09-25T18:15:22.000+03:00","amount":20000,"type":"bank"},{"id":"188292","time":"2019-09-25T18:55:23.000+03:00","amount":5000,"type":"bank"}],"discounts":[]},{"sessionId":"02405121891011029266482660","startTime":"2019-09-23T13:24:26.000+03:00","stopTime":null,"transactions":[{"id":"195631","time":"2019-10-02T12:33:38.000+03:00","amount":315000,"type":"bank"}],"discounts":[]},{"sessionId":"02405121891011029284425690","startTime":"2019-10-11T11:49:29.000+03:00","stopTime":null,"transactions":[{"id":"207812","time":"2019-10-11T12:18:13.000+03:00","amount":5000,"type":"bank"}],"discounts":[]},{"sessionId":"02405121891011029281276750","startTime":"2019-10-08T07:41:15.000+03:00","stopTime":null,"transactions":[{"id":"204767","time":"2019-10-09T11:05:59.000+03:00","amount":55000,"type":"bank"}],"discounts":[]},{"sessionId":"02405121891011029284425360","startTime":"2019-10-11T11:48:56.000+03:00","stopTime":null,"transactions":[{"id":"207831","time":"2019-10-11T12:30:17.000+03:00","amount":5000,"type":"bank"},{"id":"211145","time":"2019-10-15T14:30:06.000+03:00","amount":150000,"type":"bank"}],"discounts":[]},{"sessionId":"02405121891011029281276480","startTime":"2019-10-08T07:40:48.000+03:00","stopTime":null,"transactions":[{"id":"203660","time":"2019-10-08T11:25:24.000+03:00","amount":20000,"type":"bank"}],"discounts":[]},{"sessionId":"02405121891011029305365740","startTime":"2019-11-01T10:09:34.000+03:00","stopTime":null,"transactions":[{"id":"230915","time":"2019-11-01T10:14:57.000+03:00","amount":5000,"type":"bank"}],"discounts":[]}] 
+2019-12-12 12:01:02.5826 [AISCGWHttp.StateController.Post:134] Trace: Response: [{"sessionId":"02405121891011019238646620","startTime":"2019-08-26T17:57:42.000+03:00","stopTime":null,"transactions":[{"id":"181925","time":"2019-09-19T17:30:59.000+03:00","amount":840000,"type":"bank"},{"id":"181962","time":"2019-09-19T17:55:51.000+03:00","amount":5000,"type":"bank"},{"id":"184892","time":"2019-09-23T16:56:04.000+03:00","amount":140000,"type":"bank"},{"id":"186179","time":"2019-09-24T15:20:20.000+03:00","amount":1000,"type":"bank"}],"discounts":[]},{"sessionId":"02405121891011039239726300","startTime":"2019-08-27T20:10:30.000+03:00","stopTime":null,"transactions":[{"id":"181919","time":"2019-09-19T17:27:31.000+03:00","amount":805000,"type":"bank"},{"id":"181955","time":"2019-09-19T17:53:09.000+03:00","amount":5000,"type":"bank"},{"id":"182018","time":"2019-09-19T18:19:05.000+03:00","amount":5000,"type":"bank"},{"id":"182028","time":"2019-09-19T18:23:02.000+03:00","amount":5000,"type":"bank"},{"id":"187645","time":"2019-09-25T14:33:33.000+03:00","amount":1000,"type":"bank"},{"id":"188226","time":"2019-09-25T18:15:22.000+03:00","amount":20000,"type":"bank"},{"id":"188292","time":"2019-09-25T18:55:23.000+03:00","amount":5000,"type":"bank"}],"discounts":[]},{"sessionId":"02405121891011029266482660","startTime":"2019-09-23T13:24:26.000+03:00","stopTime":null,"transactions":[{"id":"195631","time":"2019-10-02T12:33:38.000+03:00","amount":315000,"type":"bank"}],"discounts":[]},{"sessionId":"02405121891011029284425690","startTime":"2019-10-11T11:49:29.000+03:00","stopTime":null,"transactions":[{"id":"207812","time":"2019-10-11T12:18:13.000+03:00","amount":5000,"type":"bank"}],"discounts":[]},{"sessionId":"02405121891011029281276750","startTime":"2019-10-08T07:41:15.000+03:00","stopTime":null,"transactions":[{"id":"204767","time":"2019-10-09T11:05:59.000+03:00","amount":55000,"type":"bank"}],"discounts":[]},{"sessionId":"02405121891011029284425360","startTime":"2019-10-11T11:48:56.000+03:00","stopTime":null,"transactions":[{"id":"207831","time":"2019-10-11T12:30:17.000+03:00","amount":5000,"type":"bank"},{"id":"211145","time":"2019-10-15T14:30:06.000+03:00","amount":150000,"type":"bank"}],"discounts":[]},{"sessionId":"02405121891011029281276480","startTime":"2019-10-08T07:40:48.000+03:00","stopTime":null,"transactions":[{"id":"203660","time":"2019-10-08T11:25:24.000+03:00","amount":20000,"type":"bank"}],"discounts":[]},{"sessionId":"02405121891011029305365740","startTime":"2019-11-01T10:09:34.000+03:00","stopTime":null,"transactions":[{"id":"230915","time":"2019-11-01T10:14:57.000+03:00","amount":5000,"type":"bank"}],"discounts":[]}] 
+2019-12-12 12:01:02.5826 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 12:01:02.6346 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 12:02:06.5538 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 12:02:06.5538 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 12:02:06.5538 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 12:02:06.5788 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111qaM/info 
+2019-12-12 12:02:06.5788 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
+2019-12-12 12:02:06.7659 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: POST, path: /api/v1/token 
+2019-12-12 12:02:06.7659 [AISCGWHttp.tokenController.Post:36] Debug: Request: apiKey: 6JH*** secret: bmw*** 
+2019-12-12 12:02:06.7659 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 200 
+2019-12-12 12:02:06.7910 [AISCGWHttp.ControllerStartup.Configuration:36] Trace: Http method: GET, path: /api/v1/parking/111qaGG/info 
+2019-12-12 12:02:06.7910 [AISCGWHttp.ControllerStartup.Configuration:37] Trace: Response code: 404 
